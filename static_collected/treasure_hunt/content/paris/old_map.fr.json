@@ -1,0 +1,97 @@
+{
+    "page_title": "Un peu d'histoire",
+    "intro_title":"Un peu d'histoire",
+    "intro_subtitle":"Cliquez sur les images ci-dessous pour en savoir plus sur l'histoire de la ville (facultatif), ou allez directement à la question !",
+    "intro_sections" : [{
+        "title":"Fondation",
+        "title_long":"Fondation",
+        "image": "treasure_hunt/img/paris/old_map/history_01.jpg",
+        "paragraphs":[
+            "L'histoire de <strong>Paris</strong> remonte à peu près au milieu du <strong>3ème siècle avant J.-C.</strong>, lorsque les Parisii, une sous-tribu des <strong> Celtes</strong> Senones, habitaient la région parisienne. L'une des principales routes commerciales de la région traversait la Seine sur l'île de la Cité ; ce lieu de rencontre des routes commerciales terrestres et maritimes est progressivement devenu un important centre de commerce. Les <fort>Parisii </strong> faisaient du commerce avec de nombreuses villes fluviales (certaines aussi loin que la péninsule ibérique) et frappaient leurs propres pièces de monnaie à cette fin.",
+            "Les <forts>Romains ont conquis le Bassin de Paris en 52 avant JC</strong> et ont commencé leur installation sur la Rive Gauche de Paris qu'ils ont appelé <forts>Lutétia</strong>. C'est devenu une ville prospère avec un forum, des bains, des temples, des théâtres et un amphithéâtre.",
+            "À la fin de l'Empire romain d'Occident, la ville était connue sous le nom de Parisius, un nom latin qui deviendra plus tard Paris. Le christianisme a été introduit au milieu du IIIe siècle après J.-C. par Saint Denis, le premier évêque de Paris : selon la légende, lorsqu'il a refusé de renoncer à sa foi devant les occupants romains, il a été décapité sur la colline qui est devenue connue sous le nom de Mons Martyrum ('Mont des Martyrs'), plus tard <strong>Montmartre</strong>.",
+            "Clovis le Franc, premier roi de la dynastie mérovingienne, fit de la ville sa <strong>capitale à partir de 508</strong>. Au début de la domination franque de la Gaule, les Francs ont progressivement immigré à Paris et les dialectes franciscains parisiens sont nés. À partir de la dynastie capétienne qui débuta avec l'élection en 987 de <strong>Hugh Capet</strong>, comte de Paris et duc des Francs, comme roi d'une Francie unifiée, Paris devint progressivement la <strong>plus grande et la plus prospère ville de France</strong>."
+        ]
+    },{
+        "title":"Moyen-Âge et Renaissance",
+        "title_long":"Moyen-Âge et Renaissance",
+        "image": "treasure_hunt/img/paris/old_map/history_02.jpg",
+        "paragraphs":[
+            "A la fin du <fort>12ème siècle</strong>, Paris était devenue la <strong>capitale politique, économique, religieuse et culturelle de la France</strong>. Le Palais de la Cité, la résidence royale, était situé à l'extrémité ouest de l'île de la Cité. En 1163, sous le règne de Louis VII, Maurice de Sully, évêque de Paris, entreprend la construction de la cathédrale Notre-Dame à son extrémité orientale.",
+            "À la fin du XIIe siècle, Philippe Auguste agrandit la forteresse du Louvre pour défendre la ville contre les invasions fluviales venant de l'ouest, donne à la ville ses premiers murs entre 1190 et 1215, reconstruit ses ponts de part et d'autre de son île centrale, et pave ses principales artères. En 1190, il transforme l'ancienne école de la cathédrale de Paris en une corporation d'étudiants et d'enseignants qui deviendra l'Université de Paris et attirera des étudiants de toute l'Europe.",
+            "Avec <strong>200 000 habitants en 1328</strong>, Paris, alors déjà capitale de la France, était la ville la plus peuplée d'Europe. En comparaison, Londres en 1300 avait 80 000 habitants.",
+            "Pendant la guerre de Cent Ans, Paris fut occupée par les forces bourguignonnes amies de l'Angleterre à partir de 1418, avant d'être occupée purement et simplement par les Anglais lorsque Henri V d'Angleterre entra dans la capitale française en 1420 ; malgré un effort de Jeanne d'Arc en 1429 pour libérer la ville, celle-ci resta sous <fort> occupation anglaise jusqu'en 1436</strong>.",
+            "Dans les guerres de religion françaises de la fin du 16ème siècle, Paris était un bastion de la Ligue Catholique, les organisateurs du massacre du 24 août 1572 de la Saint Barthélémy dans lequel des milliers de protestants français ont été tués. Les conflits ont pris fin lorsque le prétendant au trône, Henri IV, après s'être converti au catholicisme pour entrer dans la capitale, est entré dans la ville en 1594 pour réclamer la couronne de France. ",
+            "Au XVIIe siècle, <strong>le cardinal Richelieu</strong>, ministre en chef de Louis XIII, était déterminé à faire de Paris la plus belle ville d'Europe. Il construit cinq nouveaux ponts, une nouvelle chapelle pour le Collège de la Sorbonne et un palais pour lui-même, le Palais-Cardinal, qu'il lègue à Louis XIII. Après la mort de Richelieu en 1642, il fut rebaptisé Palais-Royal.",
+            "En raison des soulèvements parisiens pendant la guerre civile de la Fronde, <strong> Louis XIV</strong> a déplacé sa cour dans un nouveau palais, <strong>Versailles</strong>, en <strong>1682</strong>. Bien que la ville ne soit plus la capitale de la France, les arts et les sciences y fleurissent avec la Comédie-Française, l'Académie de peinture et l'Académie des sciences. Pour démontrer que la ville était à l'abri des attaques, le roi fit démolir les murs de la ville et les remplaça par des boulevards bordés d'arbres qui allaient devenir les Grands Boulevards d'aujourd'hui. Son règne a également été marqué par le Collège des Quatre-Nations, la place Vendôme, la place des Victoires et les Invalides."
+        ]
+    },
+    {
+        "title":"Révolutions & Empires",
+        "title_long":"Révolutions & Empires <br> (1789 – 1860)",
+        "image": "treasure_hunt/img/paris/old_map/history_03.jpg",
+        "paragraphs":[
+            "La population de Paris est passée d'environ <strong>400 000 en 1640 </strong>à <strong>650 000 en 1780</strong>. Un nouveau boulevard, les Champs-Élysées, prolonge la ville à l'ouest jusqu'à l'Étoile, tandis que le quartier ouvrier du Faubourg Saint-Antoine, à l'est de la ville, est de plus en plus peuplé de travailleurs migrants pauvres venant d'autres régions de France.",
+            "Paris a été le centre d'une explosion de l'activité philosophique et scientifique connue sous le nom de <strong>Age des Lumières</strong>. Diderot et d'Alembert publient leur Encyclopédie en 1751, et les frères Montgolfier lancent le premier vol habité en montgolfière le 21 novembre 1783, depuis les jardins du château de la Muette. Paris était la capitale financière de l'Europe continentale, le premier centre européen de l'édition du livre et de la mode, de la fabrication de meubles de luxe et de produits de luxe.",
+            "En été de <fort>1789</strong>, Paris est devenu le centre de la Révolution française. Le <fort>14 juillet</strong>, une foule s'empare de l'arsenal des Invalides, acquiert des milliers de canons, et <strong> prend d'assaut la Bastille</strong>, symbole de l'autorité royale.",
+            "Louis XVI et la famille royale furent amenés à Paris et faits prisonniers dans le palais des Tuileries. <En 1793, alors que la révolution devient de plus en plus radicale, le roi, la reine et le maire sont guillotinés sous le règne de la terreur, avec plus de 16 000 autres personnes dans toute la France. Les biens de l'aristocratie et de l'église sont nationalisés, et les églises de la ville sont fermées, vendues ou démolies. Une succession de factions révolutionnaires dirigent Paris jusqu'au 9 novembre 1799 (coup d'état du 18 brumaire), date à laquelle <strong>Napoléon Bonaparte</strong> prend le pouvoir en tant que Premier Consul.",
+            "La population de Paris avait diminué de 100 000 habitants pendant la Révolution, mais entre 1799 et 1815, elle a augmenté de 160 000 nouveaux habitants, pour atteindre 660 000 habitants. Napoléon Bonaparte a remplacé le gouvernement élu de Paris par un préfet ne répondant qu'à de lui. Il commence à ériger des monuments à la gloire militaire, dont l'<fort>Arc de Triomphe</strong>, le <fort>Cimetière du Père Lachaise</strong> et le premier pont métallique de la ville, le <fort>Pont des Arts</strong>.",
+            "Pendant la Restauration, les ponts et les places de Paris ont retrouvé leur nom d'avant la Révolution, mais la <strong>Révolution de juillet 1830</strong> à Paris, a amené un monarque constitutionnel, Louis Philippe Ier, au pouvoir.",
+            "La première ligne de chemin de fer vers Paris fut ouverte en 1837, ce qui marqua le début d'une nouvelle période de migration massive des provinces vers la ville. Louis-Philippe fut renversé par un soulèvement populaire dans les rues de Paris en 1848. Son successeur, Napoléon III, et le nouveau préfet de la Seine, Georges-Eugène Haussmann, lancent un gigantesque projet de travaux publics pour construire de larges boulevards, un nouvel opéra, un marché central, de nouveaux aqueducs, des égouts et des parcs. En <fort>1860</strong>, Napoléon III annexe également les villes environnantes et crée huit nouveaux arrondissements, étendant Paris à ses limites actuelles.",
+            "Pendant la <strong> guerre franco-prussienne (1870-1871)</strong>, Paris fut assiégée par l'armée prussienne. Après des mois de blocus, de famine, puis de bombardements par les Prussiens, la ville est contrainte de se rendre le 28 janvier 1871. Le 28 mars, un gouvernement révolutionnaire appelé la <strong> Commune de Paris</strong> s'empare du pouvoir à Paris. La Commune garde le pouvoir pendant deux mois, jusqu'à ce qu'elle soit durement réprimée par l'armée française pendant la <strong>Semaine sanglante</strong> à la fin mai 1871.",
+            "À la fin du <strong>19e siècle</strong>, Paris a accueilli deux grandes expositions internationales : l'Exposition universelle de 1889, qui a eu lieu pour marquer le centenaire de la Révolution française et a présenté la nouvelle <strong>Tour Eiffel</strong> ; et l'Exposition universelle de 1900, qui a donné à Paris le Pont Alexandre III, le <strong>Grand Palais</strong>, le Petit Palais et la <strong>première ligne de métro de Paris</strong>. Paris devient le laboratoire du Naturalisme (Émile Zola) et du Symbolisme (Charles Baudelaire et Paul Verlaine), et de l'Impressionnisme dans l'art (Courbet, Manet, Monet, Renoir)."
+        ]
+    },
+    {
+        "title":"Époque contemporaine",
+        "title_long":"Époque contemporaine <br> (1860 – Présent)",
+        "image": "treasure_hunt/img/paris/old_map/history_04.jpg",
+        "paragraphs":[
+            "En 1901, la population de Paris était passée à<strong> 2 715 000</strong>. Au début du siècle, des artistes du monde entier, dont : <strong>Pablo Picasso</strong>, <strong>Modigliani</strong>, et Henri <strong>Matisse</strong> ont élu domicile à Paris. C'est le berceau du fauvisme, du cubisme et de l'art abstrait, et des auteurs comme Marcel Proust y explorent de nouvelles approches de la littérature.",
+            "Pendant la Première Guerre mondiale, Paris se retrouvait parfois en première ligne ; 600 à 1 000 taxis parisiens ont joué un rôle symbolique, petit mais très important, en transportant 6 000 soldats en première ligne lors de la première bataille de la Marne. La ville a également été bombardée par des zeppelins et pilonnée par les canons à longue portée allemands. ",
+            "Dans les années d'après-guerre, connu sous le nom de Les Années Folles, Paris a continué à être une <strong>mecca pour les écrivains, les musiciens et les artistes</strong> du monde entier, y compris <strong>Ernest Hemingway</strong>, <strong>Igor Stravinsky</strong>, James <strong>Joyce</strong>, <strong>Josephine Baker</strong>, <strong>Sidney Bechet</strong>, <strong>Allen Ginsberg</strong> et le surréaliste <strong>Salvador Dalí</strong>. ",
+            "Dans les années qui ont suivi la conférence de paix, la ville a également accueilli un nombre croissant d'étudiants et de militants des colonies françaises et d'autres pays d'Asie et d'Afrique, qui sont ensuite devenus des dirigeants de leur pays, tels que Ho Chi Minh, Zhou Enlai et Léopold Sédar Senghor.",
+            "Le <fort>14 juin 1940</strong>, l'armée allemande <strong> marcha sur Paris</strong>, qui avait été déclarée <strong>ville ouverte</strong>. Les 16 et 17 juillet 1942, sur ordre des Allemands, la police et les gendarmes français arrêtèrent 12 884 Juifs, dont 4 115 enfants, et les enfermèrent pendant cinq jours au Vélodrome d'Hiver, d'où ils furent transportés par train au camp d'extermination d'Auschwitz. ",
+            "Le <fort>25 août 1944, la ville a été libérée</strong> par la 2ème division blindée française et la 4ème division d'infanterie de l'armée américaine. Le général <strong> Charles de Gaulle</strong> a conduit une foule immense et émue sur les Champs Élysées vers Notre Dame de Paris, et a prononcé un discours enthousiaste depuis l'Hôtel de Ville.",
+            "Dans les années 1950 et 1960, Paris est devenu un des fronts de la <strong> guerre d'Algérie pour l'indépendance</strong> ; en août 1961, le FLN pro-indépendance a ciblé et tué 11 policiers parisiens. Le 17 octobre 1961, une manifestation de protestation non autorisée mais pacifique des Algériens contre le couvre-feu a conduit à de violents affrontements entre la police et les manifestants, au cours desquels au moins 40 personnes ont été tuées, dont certaines jetées dans la Seine. L'Organisation armée secrète (OAS), organisation anti-indépendance, a pour sa part mené une série d'attentats à la bombe à Paris tout au long des années 1961 et 1962",
+            "En <fort>mai 1968</strong>, des étudiants protestataires occupèrent la Sorbonne et dressèrent des barricades dans le Quartier Latin. Des milliers d'ouvriers parisiens se joignent aux étudiants et le mouvement se transforme en une grève générale de deux semaines. Les partisans du gouvernement ont remporté les élections de juin à une large majorité.",
+            "La <strong>Tour Maine-Montparnasse</strong>, le plus haut bâtiment de la ville avec 57 étages et 210 mètres de haut, a été construit en 1973. La population de Paris est passée de 2 850 000 habitants en 1954 à 2 152 000 en 1990, avec l'arrivée de familles de la classe moyenne en banlieue. Au début du XXIe siècle, la population de Paris a recommencé à augmenter lentement, car de plus en plus de jeunes s'installent dans la ville. Elle a atteint <strong>2,25 millions en 2011</strong>."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Pouvez-vous trouver ces monuments du Vieux Paris ?",
+    "question_text":"Voici trois grands bâtiments parisiens du Moyen-Âge. Pouvez-vous trouver, dans cet appartement, la lettre qui leur est associée ?",
+    "old_monuments" : [{
+        "name":"La Bastille",
+        "icon":"fa-chess-rook",
+        "image_new": "treasure_hunt/img/paris/old_map/building_01_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_01_old.jpg",
+        "paragraphs":[
+            "La Bastille était une forteresse à Paris. Elle a joué un rôle important dans les conflits internes de la France et a été utilisée pendant la plus grande partie de son histoire comme une <strong> prison d'État</strong> par les rois de France. La Bastille a été construite en 1357 pour défendre l'est de la ville de Paris contre la menace anglaise pendant la guerre de Cent Ans. La forteresse a été déclarée prison d'État en 1417.",
+            "Elle fut prise d'assaut par une foule le <fort> </fort>14 <fort>juillet 1789</fort>, dans la <fort>Révolution française</fort>, devenant un symbole important du mouvement républicain français. Elle a ensuite été démolie et remplacée par la <strong>Place de la Bastille</strong>. Il ne reste presque rien de la Bastille, à part quelques vestiges de sa fondation en pierre."
+        ]
+    },{
+        "name":"Hôtel de Ville",
+        "icon":"fa-building",
+        "image_new": "treasure_hunt/img/paris/old_map/building_02_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_02_old.jpg",
+        "paragraphs":[
+            "L'Hôtel de Ville est le bâtiment qui abrite l'administration locale de la ville, situé sur la place de l'Hôtel-de-Ville dans le 4e arrondissement. L'aile sud a été construite à l'origine en <fort>1535 jusqu'en 1551</fort> et l'aile nord entre 1605 et 1628. Elle a été incendiée par la Commune de Paris, pendant les derniers jours de la Commune en mai 1871.",
+            "L'extérieur a été reconstruit selon le modèle original, mais plus grand, entre 1874 et 1882, tandis que l'intérieur a été considérablement modifié. Il s'agit du <fort>siège de la municipalité de Paris </fort>depuis 1357. Il remplit de multiples fonctions, abritant l'administration locale, le maire de Paris (depuis 1977), et sert également de lieu de grandes réceptions."
+        ]
+    },{
+        "name":"Notre-Dame de Paris",
+        "icon":"fa-church",
+        "image_new": "treasure_hunt/img/paris/old_map/building_03_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_03_old.jpg",
+        "paragraphs":[
+            "Notre-Dame de Paris est une cathédrale catholique médiévale située sur l'île de la Cité. La construction de la cathédrale a commencé en <fort>1160</strong> et était en grande partie terminée en 1260. Au XIXe siècle, la cathédrale a été le site du couronnement de Napoléon Ier et des funérailles de nombreux présidents de la République française.",
+            "Environ 12 millions de personnes visitent Notre-Dame chaque année, ce qui en fait le monument le plus <fort>visité à Paris. Alors qu'il était en rénovation et restauration, le toit de Notre-Dame a pris feu le soir du <fort>15 avril 2019</strong>. Brûlant pendant environ 15 heures, la cathédrale a subi de graves dommages. Le Parlement français a décidé qu'elle sera <strong> reconstruite exactement comme elle était avant l'incendie</strong>."
+        ]
+    }],
+    "hints":[
+        "Si vous regardez, vous devriez trouver un vieux plan de Paris dans l'appartement. Lorsque vous trouverez le repère, essayez de lire la lettre qui se trouve à côté.",
+        "Ok, les lettres peuvent être difficiles à lire. Elles forment le mot du milieu des armoiries de Paris 'Fluctuat XXX Mergitur'. Ce qui veut dire 'Bascule mais ne coule pas'.",
+        "Ok, je suppose que vous avez fait de votre mieux, voici la réponse : N E C "
+    ]
+}

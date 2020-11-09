@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-19 14:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: templates/showcase/index.html:12 templates/showcase/main_layout.html:11
+msgid ""
+"Treasure in the city provides a fun game to add to your Bnb (Airbnb). A "
+"treasure hunt based on your city, currently available for Paris and Brussels."
+msgstr ""
+"Treasure in the city propose un jeu amusant à ajouter à votre Bnb (Airbnb). "
+"Une chasse au trésor basée sur votre ville, actuellement disponible pour "
+"Paris et Bruxelles."
+
+#: templates/showcase/index.html:34 templates/showcase/main_layout.html:33
+msgid "Treasure in the city - A Treasure Hunt inside your B&B"
+msgstr "Treasure in the city - Une Chasse au Trésor dans votre B&B"
+
+#: templates/showcase/index.html:74 templates/showcase/index.html:161
+msgid "Brussels"
+msgstr "Bruxelles"
+
+#: templates/showcase/index.html:77 templates/showcase/index.html:167
+msgid "Paris"
+msgstr "Paris"
+
+#: templates/showcase/index.html:84
+msgid "Français"
+msgstr "English"
+
+#: templates/showcase/index.html:98
+msgid "A Treasure Hunt inside your B&B"
+msgstr "Une Chasse au Trésor dans votre B&B"
+
+#: templates/showcase/index.html:110
+msgid "The Concept"
+msgstr "Le Concept"
+
+#: templates/showcase/index.html:111
+msgid "Boost your B&B by adding a Fun Treasure Hunt."
+msgstr "Améliorez votre B&B en ajoutant une Chasse au Trésor !"
+
+#: templates/showcase/index.html:120
+msgid "Solve Puzzles inside your place"
+msgstr "Trois Énigmes Cachées dans l'Appartement"
+
+#: templates/showcase/index.html:121
+msgid "We add to your place a fun treasure hunt, in an escape game style."
+msgstr ""
+"Trouvez la solution à trois petites énigmes pour trouver la combinaison du "
+"coffre au Trésor ! Le coffre sera remplis de diverses sucreries régionales "
+"choisies par vos soins (bonbons, chocolat, biscuits,..)"
+
+#: templates/showcase/index.html:128
+msgid "Smartphone App"
+msgstr "Application Web pour Smartphone"
+
+#: templates/showcase/index.html:129
+msgid ""
+"The game is an web app that can be used with any devices (Smartphone, table, "
+"laptop)."
+msgstr ""
+"Le jeu utilise une application Web compatible pour tout type d'appareils "
+"(téléphones, tablettes, pc,...). Il dure en général autour de 20 minutes."
+
+#: templates/showcase/index.html:136
+msgid "Your city theme Decoration"
+msgstr "Décoration avec votre ville pour thème"
+
+#: templates/showcase/index.html:137
+msgid ""
+"To solve the puzzle in the app, you must use the themed decorations we "
+"provide."
+msgstr ""
+"Pour résoudre les énigmes de l'application, vous devez utilisez des "
+"décorations placées dans l'appartement. Chaque décoration a pour thème votre "
+"ville et décore  élégamment votre appartement."
+
+#: templates/showcase/index.html:144
+msgid "Get better reviews"
+msgstr "Recevez de meilleures évaluations"
+
+#: templates/showcase/index.html:145
+msgid ""
+"This game help you to get 5 Stars reviews. This will allow you to raise your "
+"nightly rate !"
+msgstr ""
+"La chasse au trésor incite vos hôtes à vous laissez de meilleures "
+"évaluations. Cela vous permettra d'augmenter votre tarif par nuit !"
+
+#: templates/showcase/index.html:155
+msgid "Choose your City !"
+msgstr "Choisissez votre ville !"

@@ -1,0 +1,22 @@
+{% extends "treasure_hunt/layout.html" %}
+{% load i18n %}
+{% block intro %}
+<div class="row">
+    <div class="col-lg-4 mr-auto"></div>
+    <div class="col-lg-4 ml-auto">
+        {% for par in introduction %}	
+        <p class="lead">{{ par | safe}}</p>
+        {% endfor %}
+    </div>
+    <div class="col-lg-4 mr-auto"></div>
+</div>
+{% endblock %}
+
+{% block button %}
+<div class="text-center mt-4">
+    <a class="btn btn-xl btn-outline-dark" href="{% url 'puzzle' first_puzzle.id %}">
+        <i class="fas fa-play-circle mr-2"></i>
+        {% trans "Start the Hunt !" %}
+    </a>
+</div>
+{% endblock %}

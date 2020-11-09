@@ -1,0 +1,13 @@
+{
+    "page_title": "Solution",
+    "intro_title":"Congratulations",
+    "intro_subtitle":"Here's your final riddle. Find the 3 numbers missing in this image, they are the combination to open the lock on the chest ! (No need to search the apartment anymore) ",
+    "intro_image": "treasure_hunt/img/paris/solution/paris.jpg",
+    "question_title":"You are almost there",
+    "question_text":"A few more hints, just in case.",
+    "hints":[
+        "Well, you need four numbers, so maybe it's the date associated with the picture.", 
+        "Looks like the monument here might the 'Bastille'. ",
+        "OK, it's 1(<strong>789</strong>). The year of the French Revolution, that started with the 'Prise de la Bastille' !"
+    ]
+}

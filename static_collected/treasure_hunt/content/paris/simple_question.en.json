@@ -1,0 +1,51 @@
+{
+    "page_title": "Life in Paris",
+    "intro_title":"Life in Paris",
+    "intro_subtitle":"Paris is not only a city of history, but a Vibrant Cultural, Politic and economic Metropolis. Click on the pictures below to learn more about aspect of the city (optional), or go directly to the question !",
+    "intro_sections" : [{
+        "title":"Culture",
+        "title_long":"Culture",
+        "image": "treasure_hunt/img/paris/old_ads/simple_01.jpg",
+        "paragraphs":[
+            "The culture of Paris concerns the arts, music, museums, festivals and other entertainment in Paris, the capital city of France. The city is today one of the world's leading business and cultural centers; entertainment, music, media, fashion, and the arts all contribute to its status as one of the most cultural cities in Europe.",
+            "Paris is home to notable cultural attractions such as the <strong>Louvre</strong>, <strong>Musée Picasso</strong>, <strong>Musée Rodin</strong>, Musée du Montparnasse, and Musée National d'Art Moderne. The <strong>Musée d'Orsay</strong> and Musée de l'Orangerie are notable for housing Impressionist era masterpieces, while art and artifacts from the Middle Ages can be seen in Musée Cluny.",
+            "A variety of landmarks and objects are cultural icons associated with Paris, such as Eiffel Tower, Notre Dame de Paris and Opéra Garnier. Many of Paris' once-popular local establishments have come to cater to the tastes and expectations of tourists, rather than local patrons. Le Lido, the cabaret-dance hall, for example, is a staged dinner theater spectacle, a dance display that was once but one aspect of the cabaret's former atmosphere. All of the establishment's former social or cultural elements, such as its ballrooms and gardens, are gone today. Much of Paris' hotel, restaurant and night entertainment trades have become heavily dependent on tourism."
+        ]
+    },{
+        "title":"Economy",
+        "title_long":"Economy",
+        "image": "treasure_hunt/img/paris/old_ads/simple_02.jpg",
+        "paragraphs":[
+            "The economy of Paris is based largely on <strong>services and commerce</strong>: of the 390,480 of its enterprises, 80.6 percent are engaged in commerce, transportation, and diverse services, 6.5 percent in construction, and just 3.8 percent in industry. Paris, including both the City of Paris and the Île-de-France region (Paris Region), is the most important center of economic activity in France, accounting for about <strong>thirty percent of the French GDP.</strong>",
+            "The top ten French companies listed in the Fortune Global 500 for 2015 all have their headquarters in the Paris Region, nine within the City of Paris and one, Total S.A., in the Hauts-de-Seine Department, in the business district of La Defense. The fourth-largest company, Société Générale, has its registered headquarters in Paris and its operational offices in <strong>La Defense</strong>. Other notable clusters of major companies are located at Issy-les-Moulineaux (media companies); Boulogne-Billancourt, and Saint-Denis."
+        ]
+    },
+    {
+        "title":"Gastronomy",
+        "title_long":"Gastronomy",
+        "image": "treasure_hunt/img/paris/old_ads/simple_03.jpg",
+        "paragraphs":[
+            "Paris' culinary reputation has its basis in the <strong>diverse regional origins</strong> of its inhabitants. France's regions have produced distinctive cuisines, much like regional varieties of wine. These mingled with Paris' own regional traditions. In its beginnings, Paris' culinary development owed much to the 19th-century organisation of a railway system that had Paris as a centre, making the capital a focal point for migration from France's many different regions and gastronomical cultures.",
+            "This reputation continues through today in a cultural diversity that has since spread to a worldwide level thanks to Paris' continued <strong>reputation for culinary finesse</strong> and further immigration from increasingly distant climes. Immigrants from former colonies have infused French cuisine with their own traditions, originating in South East Asia, North and West Africa.",
+            "Parisian restaurants reflect this diversity, with menus carrying traditional regional cuisine, fusions of various culinary influences, or innovating in the leading edge of new techniques, such as molecular gastronomy. Paris' food shops also have a solid reputation for supplying <strong>quality specialized culinary products</strong> and supplies, reputations that are often built up over generations."
+        ]
+    },
+    {
+        "title":"Politics",
+        "title_long":"Politics",
+        "image": "treasure_hunt/img/paris/old_ads/simple_04.jpg",
+        "paragraphs":[
+            "As the capital of France, Paris is the seat of <strong>France's national government</strong>. For the executive, the two chief officers each have their own official residences, which also serve as their offices. The President of France resides at <strong>the Élysée</strong> Palace in the 8th arrondissement, while the Prime Minister's seat is at the <strong>Hôtel Matignon</strong> in the 7th arrondissement. Government ministries are located in various parts of the city; many are located in the 7th arrondissement, near the Matignon.",
+            "The two houses of the <strong>French Parliament</strong> are located on the left bank. The upper house, the Senate, meets in the <strong>Palais du Luxembourg</strong>, while the more important lower house, the Assemblée Nationale, meets in the <strong>Palais Bourbon</strong>. The President of the Senate, the second-highest public official in France after the President of the Republic, resides in the Petit Luxembourg, a small annex to the Palais du Luxembourg.",
+            "France's highest courts are located in Paris. The Court of Cassation, the highest court in the judicial order, which reviews criminal and civil cases, is located in the Palais de Justice on the Île de la Cité, while the Conseil d'État, which provides legal advice to the executive and acts as the highest court in the administrative order, judging litigation against public bodies, is located in the Palais Royal. The Constitutional Council, an advisory body with ultimate authority on the constitutionality of laws and government decrees, also meets in the Montpensier wing of the Palais Royal."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Can You Spot the Parisian Company ?",
+    "question_text":"You can find in the apartment several old ads from famous French Companies. Can you guess the one that originated in Paris ?",
+    "hints":[
+        "The ads are inside small picture frames.", 
+        "I think Paris is famous for its fashion industry.",
+        "Hum, maybe the frame is missing. Try entering 'Louis Vuitton' then !"
+    ]
+}

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+
+  <meta name="google-site-verification" content="n6lfhrNxD4e2o6XVhX2Gvv-mPWHoDSVg0oweRbpyF6s" />
+  <meta name="robots" content="index">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="{% trans 'Treasure in the city provides a fun game to add to your Bnb (Airbnb). A treasure hunt based on your city, currently available for Paris and Brussels.' %}">
+  <meta name="author" content="Treasure in the City">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36944042-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-36944042-5');
+  </script>
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NLWZ2HL');</script>
+  <!-- End Google Tag Manager -->
+
+
+  <title>{% trans 'Treasure in the city - A Treasure Hunt inside your B&B' %}</title>
+
+  <link rel="shortcut icon" href="{% static 'showcase/img/favicon.ico' %}" />
+
+  <link rel="shortcut icon" href="" />
+  <!-- Bootstrap core CSS -->
+  <link href="{% static 'showcase/vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  
+  <!-- Custom styles for this template -->
+  <link href="{% static 'showcase/css/agency.css' %}" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLWZ2HL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-shrink" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <img class="img-fluid" style="max-width: 75px;" src="{% static 'showcase/img/logo_small.png' %}" alt="logo">
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger active" href="{% url 'city' 'brussels' %}">{% trans "Brussels" %}</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="{% url 'city' 'paris' %}" >{% trans "Paris" %}</a>
+          </li>
+          <li class="nav-item">
+            <span class="nav-link js-scroll-trigger" >|</span>
+          </li>
+		      <li class="nav-item">
+            <input id="current-page" type="hidden" value="">
+            <a class="nav-link js-scroll-trigger lang-link" id="button-lang" data-tag="button-lang" href="#">{% trans "Français" %}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+        <img class="img-fluid mb-4" src="{% static 'showcase/img/logo.png' %}" alt="logo">
+        <h1>
+          <div class="intro-lead-in" data-tag="subtitle">
+            {% trans "A Treasure Hunt inside your B&B" %}</h1>
+          </div>
+        </h1>
+      </div>
+    </div>
+  </header>
+
+    <!-- Concept -->
+    <section class="page-section" id="concept">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase" data-tag="theconcept">{% trans "The Concept" %}</h2>
+            <h3 class="section-subheading text-muted" data-tag="theconcept-subtitle">{% trans "Boost your B&B by adding a Fun Treasure Hunt." %}</h3>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-lg-3 col-md-6">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-search fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading" data-tag="theconcept-puzzle">{% trans "Solve Puzzles inside your place" %}</h4>
+            <p class="text-muted" data-tag="theconcept-puzzle-sub">{% trans "We add to your place a fun treasure hunt, in an escape game style." %}</p>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-mobile-alt fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading" data-tag="theconcept-app">{% trans "Smartphone App" %}</h4>
+            <p class="text-muted" data-tag="theconcept-app-sub">{% trans "The game is an web app that can be used with any devices (Smartphone, table, laptop)." %}</p>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-images fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading" data-tag="theconcept-bxl">{% trans "Your city theme Decoration" %}</h4>
+            <p class="text-muted" data-tag="theconcept-bxl-sub">{% trans "To solve the puzzle in the app, you must use the themed decorations we provide." %}</p>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-star fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading" data-tag="theconcept-review">{% trans "Get better reviews" %}</h4>
+            <p class="text-muted" data-tag="theconcept-review-sub">{% trans "This game help you to get 5 Stars reviews. This will allow you to raise your nightly rate !" %}</p>
+          </div>
+      </div>
+    </div>
+  </section>
+  <!-- Choose-->
+  <section class="page-section" id="app" >
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" >{% trans "Choose your City !" %}</h2>
+        </div>
+      </div>
+      <div class="row text-center">
+	      <div class="col-lg-6 col-md-6">
+          <a href="{% url 'city' 'brussels' %}">
+            <h4 class="service-heading" data-tag="theconcept-puzzle">{% trans "Brussels" %}</h4>
+            <img class="img-thumbnail" src="{% static 'showcase/img/brussels.jpg' %}" alt="Brussels image">  
+          </a>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <a href="{% url 'city' 'paris' %}">
+            <h4 class="service-heading" data-tag="theconcept-app">{% trans "Paris" %}</h4>
+            <img class="img-thumbnail" src="{% static 'showcase/img/paris.jpg' %}" alt="Paris image">  
+          </a>
+        </div>
+	  </div>
+  </div></section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4">
+
+        </div>
+        <div class="col-md-4">
+          <span class="copyright">Copyright © Treasure in the City 2020</span>
+        </div>
+
+        <div class="col-md-4">
+          <!--
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+          </ul>-->
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static 'showcase/vendor/jquery/jquery.min.js' %}"></script>
+  <script src="{% static 'showcase/vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="{% static 'showcase/vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+  
+  <!-- Contact form JavaScript -->
+  <script src="{% static 'showcase/js/jqBootstrapValidation.js' %}"></script>
+  <script src="{% static 'showcase/js/contact_me.js' %}"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="{% static 'showcase/js/agency.js' %}"></script>
+
+</body>
+
+</html>

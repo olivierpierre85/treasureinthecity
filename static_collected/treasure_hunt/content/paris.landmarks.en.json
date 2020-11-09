@@ -1,0 +1,116 @@
+{
+    "page_title": "Famous Landmarks",
+    "intro_title":"Famous landmarks",
+    "intro_subtitle":"Here are some of Paris most famous landmarks. Click on the pictures below to learn more about them (optional).",
+    "intro_sections" : [ 
+    {
+        "title":"Montmartre",
+        "title_long":"Montmartre & the Basilica of the Sacred Heart of Paris",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_05.jpg",
+        "lat_long": "48.887436, 2.341455",
+        "paragraphs":[
+            "<strong>Montmartre</strong> is a 130 m (430 ft) high hill in the 18th arrondissement. It's the highest point in the city and gives its name to the surrounding district. Montmartre is primarily known for its artistic history, the white-domed Basilica of the Sacré-Cœur on its summit, and as a nightclub district. The other church on the hill, Saint Pierre de Montmartre, built in 1147, is where the order of the <strong>Jesuits</strong> is believed to have its roots.",
+            "Near the end of the 19th century and at the beginning of the twentieth, during the Belle Époque, many artists lived in, had studios, or worked in or around Montmartre, including Amedeo <strong>Modigliani</strong>, Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Henri de Toulouse-Lautrec, Suzanne Valadon, Piet Mondrian, Pablo <strong>Picasso</strong>, Camille Pissarro, and Vincent van Gogh. Montmartre is also the setting for several famous films like “Amélie”, “La môme”, “Midnight in Paris”,...",
+            "<strong>The Basilica of the Sacred Heart of Paris</strong>, commonly known as Sacré-Cœur, is a Roman Catholic church and minor basilica, dedicated to the Sacred Heart of Jesus. It's the <strong>second most visited</strong> monument in Paris. Its construction began in 1875 and was completed in 1914.",
+            "The basilica stands is seen as a double monument, political and cultural, both a national penance for the defeat of France in the 1870 Franco-Prussian War and for the socialist Paris Commune of 1871 crowning its most rebellious neighborhood, and an embodiment of conservative moral order, publicly dedicated to the Sacred Heart of Jesus."
+]
+    },
+    {
+        "title":"Eiffel Tower",
+        "title_long":"Eiffel Tower",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_01.jpg",
+        "lat_long": "48.858250, 2.294567",
+        "paragraphs":[
+            "The <strong>Eiffel Tower </strong>is a wrought-iron lattice tower on the Champ de Mars. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+            "Constructed from 1887 to 1889 as the entrance to the <strong>1889 World's Fair</strong>, it was initially criticised by some of France's leading artists and intellectuals for its design, as you can read in this extract from a petition called '<strong>Artists against the Eiffel Tower</strong>' :",
+            "“We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of Paris, protest with all our strength, with all our indignation in the name of slighted French taste, against the erection … of this <strong>useless and monstrous Eiffel Tower</strong> …” ",
+            "It has since become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the <strong>most-visited paid monument in the world</strong>; 6.91 million people ascended it in 2015.",
+            "The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction, the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930. It was the <strong>first structure to reach 300 metres</strong>.",
+            "The tower has three levels for visitors, with restaurants on the first and second levels. The top level's upper platform is 276 m (906 ft) above the ground – the <strong>highest observation deck </strong>accessible to the public <strong>in the European Union</strong>. "
+        ]
+    },
+    {
+        "title":"Notre-Dame de Paris",
+        "title_long":"Notre-Dame de Paris",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_07.jpg",
+        "lat_long": "48.853088, 2.350568",
+        "paragraphs":[
+            "Notre-Dame de Paris ('Our Lady of Paris'), referred to simply as <strong>Notre-Dame</strong>, is a medieval Catholic cathedral on the Île de la Cité. The cathedral was consecrated to the Virgin Mary and considered to be one of the <strong>finest examples of French Gothic</strong> architecture. Its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, as well as the naturalism and abundance of its sculptural decoration set it apart from the earlier Romanesque style. Major components that make Notre Dame stand out include one of the world's largest organs and its immense church bells.",
+            "The cathedral's construction began in <strong>1160</strong> and was largely complete by 1260, though it was modified frequently in the following centuries. In the 1790s, Notre-Dame suffered desecration during the French Revolution; much of its religious imagery was damaged or destroyed. In the 19th century, the cathedral was the site of <strong>the coronation of Napoleon I</strong> and the funerals of many Presidents of the French Republic.",
+            "Popular interest in the cathedral blossomed soon after the publication, in 1831, of Victor Hugo's novel “Notre-Dame de Paris” (<strong>The Hunchback of Notre-Dame</strong>). This led to a major restoration project between 1844 and 1864.",
+            "Approximately 12 million people visit Notre-Dame annually, making it the <strong>most visited monument</strong> in Paris. Some of the most important relics in Christendom, including the Crown of Thorns, a sliver of the true cross and a nail from the true cross, are preserved at Notre-Dame.",
+            "While undergoing renovation and restoration, the roof of Notre-Dame caught fire on the evening of <strong>15 April 2019</strong>. Burning for around 15 hours, the cathedral sustained serious damage. The French Parliament has ruled that it will be <strong>rebuilt exactly as it appeared before the fire</strong>."
+        ]
+    },
+    {
+        "title":"Louvre",
+        "title_long":"Louvre",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_04.jpg",
+        "lat_long": "48.860663, 2.336502",
+        "paragraphs":[
+            "The Louvre is the <strong>world's largest art museum</strong> and a central landmark of the city. Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters (782,910 square feet).In 2019, the Louvre received 9.6 million visitors, making it the most visited art museum in the world.",
+            "The museum is housed in the Louvre Palace, originally <strong>built</strong> as the Louvre castle <strong>in the late 12th to 13th century</strong> under Philip II. Remnants of the fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary <strong>residence of the French Kings</strong>. In 1682, Louis XIV chose the Palace of Versailles for his household, leaving the Louvre primarily as a place to display the royal collection. During the French Revolution, the National Assembly decreed that the Louvre should be used as a museum to display the <strong>nation's masterpieces</strong>.",
+            "The <strong>museum opened on 10 August 1793</strong> with an exhibition of <strong>537 paintings</strong>, the majority of the works being royal and confiscated church property. The collection was increased under Napoleon and the museum was renamed Musée Napoléon, but after Napoleon's abdication, many works seized by his armies were returned to their original owners.",
+            "Today,the most popular painting in the Louvre is without a doubt the <strong>Mona Lisa</strong> (or La Joconde), one of the most valuable paintings in the world. It was originally simply one among many highly regarded artworks, but the Da Vinci masterpiece came to fame after it was <strong>stolen in 1911</strong>, as its subsequent return was reported worldwide, leading to a massive increase in public recognition of the painting. Nowadays, the painting is so popular that its room is often overcrowded, and you might have to wait in line in order to enjoy it."
+        ]
+    },
+    {
+        "title":"Versailles",
+        "title_long":"Versailles",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_02.jpg",
+        "lat_long": "48.804874, 2.122269",
+        "paragraphs":[
+            "The Palace of Versailles was the <strong>principal royal residence of France</strong> from 1682, under Louis XIV, until the start of the French Revolution in 1789, under Louis XVI. It is located about 20 kilometres (12 miles) southwest of the centre of Paris.",
+            "A simple hunting lodging and later a small château with a moat occupied the site until 1661, when the first work expanding the château into a palace was carried out for<strong> Louis XIV</strong>. In 1682, when the palace had become large enough, the king moved the entire royal court and the French government to Versailles. ",
+            "The palace is supposed to have been inspired by the palace of <strong>Vaux-le-Vicomte</strong>, the palace of Nicolas Fouquet, Louis XIV Superintendent of Finances. According to some historians, the palace was so prestigious that Louis XIV had its owner arrested, arguing that he only could have afforded it through fraud. The king then proceeded to build his own palace, using the same architects that built Vaux-le-Vicomte.",
+            "The palace has also been a site of historical importance. The <strong>Peace of Paris</strong> (1783) was signed at Versailles, the <strong>Proclamation of the German Empire </strong>occurred in the vaunted Hall of Mirrors, and World War I was ended in the palace with the Treaty of Versailles, among many other events. The Palace was stripped of all its furnishings after the French Revolution, but many pieces have been returned and many of the palace rooms have been restored.",
+            "In 2017 the Palace of Versailles received <strong>7,700,000</strong> visitors, making it the <strong>second-most visited monument</strong> in the Île-de-France region, just behind the Louvre and ahead of the Eiffel Tower."
+        ]
+    },
+    {
+        "title":"Arc de Triomphe",
+        "title_long":"Arc de Triomphe",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_03.jpg",
+        "lat_long": "48.873920, 2.295026",
+        "paragraphs":[
+            "The <strong>Arc de Triomphe de l'Étoile</strong> ( 'Triumphal Arch of the Star') is one of the most famous monuments in Paris, standing at the western <strong>end of the Champs-Élysées</strong> at the centre of Place Charles de Gaulle. The Arc de Triomphe honours those who fought and died for France in the French Revolutionary and Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. Beneath its vault lies the <strong>Tomb of the Unknown Soldier from World War I</strong>.",
+            "The Arc de Triomphe was designed by Jean Chalgrin in 1806; its iconographic programme pits heroically nude French youths against bearded Germanic warriors in chain mail. It set the tone for public monuments with triumphant patriotic messages. Inspired by the Arch of Titus in Rome, Italy, the Arc de Triomphe has an overall <strong>height of 50 metres</strong> (164 ft), width of 45 m (148 ft) and depth of 22 m (72 ft). Three weeks after the Paris victory parade in 1919 (marking the end of hostilities in World War I), Charles Godefroy flew his Nieuport biplane under the arch's primary vault, with the event captured on newsreel.",
+            "Paris's Arc de Triomphe was the tallest triumphal arch until the completion of the Monumento a la Revolución in Mexico City in 1938. The Arch of Triumph in Pyongyang, completed in 1982, is modelled on the Arc de Triomphe and is slightly taller at 60 m (197 ft). "
+        ]
+    },
+    {
+        "title":"Grand Palais",
+        "title_long":"Grand Palais",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_06.jpg",
+        "lat_long": "48.866215, 2.312851",
+        "paragraphs":[
+            "The Grand Palais des Champs-Élysées, commonly known as the <strong>Grand Palais</strong> (Great Palace), is a large historic site, exhibition hall and museum complex located at the Champs-Élysées in the 8th arrondissement. Construction of the Grand Palais began in <strong>1897</strong> following the demolition of the Palais de l'Industrie (Palace of Industry) as part of the preparation works for the Universal Exposition of 1900, which also included the creation of the adjacent Petit Palais and Pont Alexandre III. It has been listed since 2000 as a monument historique by the French Ministry of Culture.",
+            "The structure was built in the style of Beaux-Arts architecture as taught by the École des Beaux-Arts of Paris. The building reflects the movement's taste for ornate decoration through its stone facades, the formality of its floor planning and the use of techniques that were innovative at the time, such as its glass vault, its structure made of iron and light steel framing, and its use of reinforced concrete.",
+            "The Nazis put the Palais to use during the Occupation of France in World War II. First used as a truck depot, the Palais then housed two Nazi propaganda exhibitions. At the end of the war, the Parisian<strong> resistance</strong> used the Grand Palais as a <strong>headquarters during the Liberation of Paris</strong>.",
+            "Today, the Grand Palais has a major police station in the basement whose officers help protect the exhibits on show in the Galeries nationales du Grand Palais, particularly the picture exhibition 'salons': the Salon de la Société Nationale des Beaux Arts, Salon d'Automne, and Salon Comparaisons. The building's west wing also contains a science museum, the Palais de la Découverte..",
+            "It was used during the final stage of the Tour de France in 2017, as part of the promotion for Paris' 2024 Summer Olympics bid. The riders rode through the Palais en route to the Champs Élysées. With Paris having been unanimously awarded the 2024 Games, the Palais will be used for the fencing and taekwondo events."
+        ]
+    },   
+    {
+        "title":"Place Vendôme",
+        "title_long":"Place Vendôme",
+        "image": "treasure_hunt/img/paris/landmarks//landmarks_08.jpg",
+        "lat_long": "48.867882, 2.329783",
+        "paragraphs":[
+            "Place Vendôme is a square in the 1st arrondissement of Paris, located to the north of the Tuileries Gardens and east of the Église de la Madeleine. It is the starting point of the rue de la Paix. Its regular architecture gives the rectangular place Vendôme the aspect of an octagon. ",
+            "Place Vendôme was laid out in 1702 as a monument to the glory of the armies of <strong>Louis XIV</strong>, and called <strong>place des Conquêtes </strong>(Conquests Square), to be renamed place <strong>Louis le Grand</strong>, when the conquests proved temporary; an over life-size equestrian statue of the king was set up in its centre, and is supposed to have been the first large modern equestrian statue to be cast in a single piece. It was <strong>destroyed in the French Revolution</strong>; however, there is a small version in the Louvre.",
+            "The original <strong>Vendôme Column</strong> at the centre of the square <strong>was erected by Napoleon I</strong> to commemorate the <strong>Battle of Austerlitz</strong>. It was torn down on 16 May 1871, by decree of the <strong>Paris Commune</strong>. This destruction had been predicted by <strong>Karl Marx,</strong> who wrote in a 1852 pamphlet, sharply critical of the political figure of Napoleon III : 'But if the Imperial mantle finally falls on the shoulders of Louis Bonaparte, the bronze statue of Napoleon will fall from the height of the Vendome column'",
+            "The column was subsequently re-erected and remains a prominent feature on the square today."
+
+        ]
+    }],
+    "question_title": "Question",
+    "question_subtitle": "Can You put the list below in the right order ?",
+    "question_text": "",
+    "question_image": "treasure_hunt/img/landmarks_frame_model.jpg",
+    "hints":[
+        "There must be something in the apartment with the same design as the model.", 
+        "Leave your finger on the names to move them.",
+        "Well maybe this puzzle is not for you. Then try this order, from top to bottom : Eiffel Tower, Versailles, Arc de Triomphe, Louvres, Montmartre, Grand Palais, Notre-Dame, Place Vendôme ."
+    ]
+}

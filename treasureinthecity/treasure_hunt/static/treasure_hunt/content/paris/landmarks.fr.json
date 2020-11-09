@@ -1,0 +1,115 @@
+{
+    "page_title": "Sites célèbres",
+    "intro_title":"Sites célèbres",
+    "intro_subtitle":"Voici quelques uns des sites les plus célèbres de Paris. Cliquez sur les photos ci-dessous pour en savoir plus (facultatif).",
+    "intro_sections" : [ 
+    {
+        "title":"Montmartre",
+        "title_long":"Montmartre et la Basilique du Sacré-Coeur de Paris",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_05.jpg",
+        "lat_long": "48.887436, 2.341455",
+        "paragraphs":[
+            "<strong>Montmartre</strong> est une colline de 130 m de haut dans le 18ème arrondissement. C'est le point culminant de la ville et il donne son nom au quartier environnant. Montmartre est surtout connu pour son histoire artistique, la basilique du Sacré-Cœur à la coupole blanche qui se trouve à son sommet, et comme quartier de boîtes de nuit. L'autre église sur la colline, Saint Pierre de Montmartre, construite en 1147, est l'endroit où l'ordre des <strong>Jésuites</strong> est censé avoir ses racines.",
+            "Vers la fin du XIXe siècle et au début du XXe, à la Belle Époque, de nombreux artistes vivaient, avaient des ateliers ou travaillaient à Montmartre ou dans ses environs, dont Amedeo <strong>Modigliani</strong>, Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Henri de Toulouse-Lautrec, Suzanne Valadon, Piet Mondrian, Pablo <strong>Picasso</strong>, Camille Pissarro, et Vincent van Gogh. Montmartre est également le décor de plusieurs films célèbres comme <strong>Amélie, La môme, Minuit à Paris,...</strong>",
+            "<strong>La Basilique du Sacré-Cœur de Paris</strong>, communément appelée Sacré-Cœur, est une église catholique romaine et une basilique mineure, dédiée au Sacré-Cœur de Jésus. C'est le <strong>deuxième monument le plus visité</strong> de Paris. Sa construction a commencé en 1875 et s'est achevée en 1914.",
+            "La basilique est considérée comme un double monument, politique et culturel, à la fois une pénitence nationale pour la défaite de la France dans la guerre franco-prussienne de 1870 et pour la Commune socialiste de Paris de 1871 qui couronne son quartier le plus rebelle, et une incarnation de l'ordre moral conservateur, publiquement dédiée au Sacré-Cœur de Jésus."
+]
+    },
+    {
+        "title":"Tour Eiffel",
+        "title_long":"Tour Eiffel",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_01.jpg",
+        "lat_long": "48.858250, 2.294567",
+        "paragraphs":[
+            "La <strong>Tour Eiffel </strong>est une tour en treillis de fer forgé sur le Champ de Mars. Elle porte le nom de l'ingénieur Gustave Eiffel, dont l'entreprise a conçu et construit la tour.",
+            "Construite de 1887 à 1889 comme entrée de l'Exposition universelle <strong>1889</strong>, elle a d'abord été critiquée par certains des plus grands artistes et intellectuels français pour sa conception, comme vous pouvez le lire dans cet extrait d'une pétition intitulée '<strong>Protestation des artistes contre la tour de M. Eiffel</strong>' : ",
+            "'Nous, écrivains, peintres, sculpteurs, architectes et passionnés de la beauté jusqu'ici intacte de Paris, protestons de toutes nos forces, de toute notre indignation au nom du mauvais goût français, contre l'érection ... de cette <strong> inutile et monstrueuse Tour Eiffel</strong> ...'",
+            "Elle est devenue depuis lors une icône culturelle globale de la France et l'une des structures les plus reconnaissables dans le monde. La Tour Eiffel est le monument payant le plus visité au monde ; 6,91 millions de personnes l'ont escaladée en 2015",
+            "La tour mesure 324 mètres de haut, soit à peu près la même hauteur qu'un immeuble de 81 étages, et c'est la plus haute structure de Paris. Sa base est carrée et mesure 125 mètres de chaque côté. Lors de sa construction, la Tour Eiffel a dépassé le Washington Monument pour devenir la plus haute structure artificielle du monde, titre qu'elle a détenu pendant 41 ans jusqu'à l'achèvement du Chrysler Building à New York en 1930. C'était la <strong>première structure à atteindre 300 mètres</strong>.",
+            "La tour a trois niveaux pour les visiteurs, avec des restaurants au premier et au deuxième niveau. La plateforme supérieure du niveau supérieur se trouve à 276 m au-dessus du sol - le <strong>pont d'observation le plus élevé </strong>accessible au public <strong>dans l'Union européenne</strong>. "
+        ]
+    },
+    {
+        "title":"Notre-Dame de Paris",
+        "title_long":"Notre-Dame de Paris",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_07.jpg",
+        "lat_long": "48.853088, 2.350568",
+        "paragraphs":[
+            "Notre-Dame de Paris, est une cathédrale catholique médiévale située sur l'île de la Cité. La cathédrale a été consacrée à la Vierge Marie et considérée comme l'un des <strong>exemples les plus raffinés de l'architecture gothique française</strong>. Son utilisation pionnière de la voûte en berceau et du contrefort volant, ses énormes rosaces colorées, ainsi que le naturalisme et l'abondance de sa décoration sculpturale la distinguent du style roman antérieur. Parmi les éléments majeurs qui font de Notre Dame un lieu unique, on peut citer l'un des plus grands orgues du monde et ses immenses cloches d'église.",
+            "La construction de la cathédrale a commencé en <strong>1160</strong> et était en grande partie terminée en <strong>1260</strong>, bien qu'elle ait été fréquemment modifiée au cours des siècles suivants. Dans les années 1790, Notre-Dame a été profanée pendant la Révolution française ; une grande partie de son imagerie religieuse a été endommagée ou détruite. Au XIXe siècle, la cathédrale a été le site du couronnement de Napoléon Ier et des funérailles de nombreux présidents de la République française.",
+            "L'intérêt populaire pour la cathédrale a fleuri peu après la publication, en 1831, du roman de Victor Hugo 'Notre-Dame de Paris'. Cela a donné lieu à un important projet de restauration entre 1844 et 1864.",
+            "Environ 12 millions de personnes visitent Notre-Dame chaque année, ce qui en fait le monument le plus <strong> visité de Paris</strong> . Certaines des plus importantes reliques de la chrétienté, dont la couronne d'épines, un éclat de la vraie croix et un clou de la vraie croix, sont conservées à Notre-Dame.",
+            "En cours de rénovation et de restauration, le toit de Notre-Dame a pris feu le soir du <strong>15 avril 2019</strong>. Brûlant pendant environ 15 heures, la cathédrale a subi de graves dommages. Le Parlement français a décidé qu'elle sera <strong> reconstruite exactement comme elle était avant l'incendie</strong>."
+        ]
+    },
+    {
+        "title":"Le Louvre",
+        "title_long":"Le Louvre",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_04.jpg",
+        "lat_long": "48.860663, 2.336502",
+        "paragraphs":[
+            "Le Louvre est le <strong>musée d'art le plus important du monde</strong> et un point de repère central de la ville. Environ 38 000 objets de la préhistoire au XXIe siècle sont exposés sur une surface de 72 735 mètres carrés et, en 2019, le Louvre a reçu 9,6 millions de visiteurs, ce qui en fait le musée d'art le plus visité au monde.",
+            "Le musée se trouve dans le palais du Louvre, à l'origine <strong>construit</strong> comme le château du Louvre <strong>à la fin du 12ème au 13ème siècle</strong> sous Philippe II. Les vestiges de la forteresse sont visibles dans le sous-sol du musée. En raison de l'expansion urbaine, la forteresse a fini par perdre sa fonction défensive et, en 1546, François Ier l'a convertie en résidence principale des rois de France. En 1682, Louis XIV a choisi le château de Versailles pour sa maison, laissant le Louvre principalement comme lieu d'exposition de la collection royale. Pendant la Révolution française, l'Assemblée nationale a décrété que le Louvre devait servir de musée pour exposer les <strong>chefs-d'œuvre de la nation</strong>.",
+            "Le <strong>musée a ouvert le 10 août 1793</strong> avec une exposition de <strong>537 peintures</strong>, la majorité des œuvres étant des biens royaux et des biens d'église confisqués. La collection a été augmentée sous Napoléon et le musée a été rebaptisé Musée Napoléon, mais après l'abdication de Napoléon, de nombreuses œuvres saisies par ses armées ont été rendues à leurs propriétaires d'origine.",
+            "Aujourd'hui, le tableau le plus populaire du Louvre est sans aucun doute la <strong>Mona Lisa</strong> (ou La Joconde), l'un des tableaux les plus précieux au monde. À l'origine, ce n'était qu'une des nombreuses œuvres d'art très appréciées, mais le chef-d'œuvre de Léonard de Vinci est devenu célèbre après avoir été <strong>volé en 1911</strong>, car son retour a été signalé dans le monde entier, ce qui a entraîné une augmentation massive de la reconnaissance publique du tableau. Aujourd'hui, le tableau est tellement populaire que sa salle est souvent surpeuplée et qu'il faut parfois faire la queue pour en profiter."
+        ]
+    },
+    {
+        "title":"Versailles",
+        "title_long":"Versailles",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_02.jpg",
+        "lat_long": "48.804874, 2.122269",
+        "paragraphs":[
+            "Le château de Versailles a été la <strong>principale résidence royale de France</strong> de 1682, sous Louis XIV, jusqu'au début de la Révolution française en 1789, sous Louis XVI. Il est situé à environ 20 kilomètres (12 miles) au sud-ouest du centre de Paris.",
+            "Un simple pavillon de chasse et plus tard un petit château avec des douves ont occupé le site jusqu'en 1661, date à laquelle les premiers travaux d'agrandissement du château en palais ont été réalisés pour<strong> Louis XIV</strong>. En 1682, lorsque le palais est devenu assez grand, le roi a déplacé toute la cour royale et le gouvernement français à Versailles. ",
+            "Le palais est censé avoir été inspiré par le palais de <strong>Vaux-le-Vicomte</strong>, le palais de Nicolas Fouquet, surintendant des finances de Louis XIV. Selon certains historiens, le palais était si prestigieux que Louis XIV fit arrêter son propriétaire, arguant qu'il ne pouvait se le permettre que par la fraude. Le roi a alors procédé à la construction de son propre palais, en faisant appel aux mêmes architectes que ceux qui ont construit Vaux-le-Vicomte.",
+            "Le palais a également été un site d'importance historique. La <strong>Paix de Paris</strong> (1783) a été signée à Versailles, la <strong>Proclamation de l'Empire allemand </strong> s'est déroulée dans la salle des miroirs tant vantée, et la Première Guerre mondiale a pris fin dans le palais avec le Traité de Versailles, parmi bien d'autres événements. Le palais a été dépouillé de tout son mobilier après la Révolution française, mais de nombreuses pièces ont été restituées et beaucoup de salles du palais ont été restaurées.",
+            "En 2017, le château de Versailles a reçu <strong>7 700 000</strong> visiteurs, ce qui en fait le <strong>deuxième monument le plus visité</strong> de la région Île-de-France, juste derrière le Louvre et devant la Tour Eiffel."
+        ]
+    },
+    {
+        "title":"Arc de Triomphe",
+        "title_long":"Arc de Triomphe",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_03.jpg",
+        "lat_long": "48.873920, 2.295026",
+        "paragraphs":[
+            "L'Arc de Triomphe de l'Étoile est l'un des plus célèbres monuments de Paris, situé à l'extrémité ouest des Champs-Élysées, au centre de la place Charles de Gaulle. L'Arc de Triomphe honore ceux qui ont combattu et sont morts pour la France pendant les guerres révolutionnaires et napoléoniennes, avec les noms de toutes les victoires françaises et des généraux inscrits sur ses surfaces intérieures et extérieures. Sous sa voûte se trouve la <strong>Tombe du Soldat inconnu de la Première Guerre mondiale</strong>.",
+            "L'Arc de Triomphe a été conçu par Jean Chalgrin en 1806 ; son programme iconographique oppose héroïquement des jeunes Français nus à des guerriers germaniques barbus en cotte de mailles. Il donne le ton aux monuments publics avec des messages patriotiques triomphants. Inspiré par l'Arc de Titus à Rome, en Italie, l'Arc de Triomphe a une hauteur totale de 50 mètres, une largeur de 45 m et une profondeur de 22 m. Trois semaines après le défilé de la victoire à Paris en 1919 (marquant la fin des hostilités de la Première Guerre mondiale), Charles Godefroy a fait voler son biplan Nieuport sous la voûte primaire de l'arc, l'événement ayant été filmé aux actualités.",
+            "L'Arc de Triomphe de Paris était le plus haut arc de triomphe jusqu'à l'achèvement du Monumento a la Revolución à Mexico en 1938. L'Arc de Triomphe de Pyongyang, achevé en 1982, est calqué sur l'Arc de Triomphe et est légèrement plus haut de 60 m. "
+        ]
+    },
+    {
+        "title":"Grand Palais",
+        "title_long":"Grand Palais",
+        "image": "treasure_hunt/img/paris/landmarks/landmarks_06.jpg",
+        "lat_long": "48.866215, 2.312851",
+        "paragraphs":[
+            "Le Grand Palais des Champs-Élysées, communément appelé le <strong>Grand Palais</strong> (Grand Palais), est un grand site historique, une salle d'exposition et un complexe muséal situés sur les Champs-Élysées dans le 8e arrondissement. La construction du Grand Palais a commencé en <strong>1897</strong> suite à la démolition du Palais de l'Industrie dans le cadre des travaux de préparation de l'Exposition universelle de 1900, qui comprenait également la création du Petit Palais et du Pont Alexandre III adjacents. Il est classé depuis 2000 comme monument historique par le ministère français de la culture.",
+            "La structure a été construite dans le style de l'architecture des Beaux-Arts tel qu'enseigné par l'École des Beaux-Arts de Paris. Le bâtiment reflète le goût du mouvement pour la décoration ornée à travers ses façades en pierre, la formalité de son aménagement et l'utilisation de techniques innovantes à l'époque, telles que sa voûte en verre, sa structure en fer et en acier léger, et son utilisation de béton armé.",
+            "Les nazis ont mis le Palais en service pendant l'occupation de la France pendant la Seconde Guerre mondiale. D'abord utilisé comme dépôt de camions, le Palais a ensuite abrité deux expositions de propagande nazie. À la fin de la guerre, la<strong> résistance</strong> a utilisé le Grand Palais comme <strong>quartier général pendant la Libération de Paris</strong>.",
+            "Aujourd'hui, le Grand Palais dispose d'un important commissariat de police en sous-sol dont les agents contribuent à la protection des objets exposés dans les Galeries nationales du Grand Palais, notamment les salons de la Société nationale des Beaux-Arts, le Salon d'Automne et le Salon Comparaisons. L'aile ouest du bâtiment contient également un musée des sciences, le Palais de la Découverte...",
+            "Il a été utilisé lors de la dernière étape du Tour de France en 2017, dans le cadre de la promotion de la candidature de Paris aux Jeux olympiques d'été de 2024. Les coureurs ont traversé le Palais en route vers les Champs Élysées. Paris ayant été désigné à l'unanimité pour les Jeux de 2024, le Palais sera utilisé pour les épreuves d'escrime et de taekwondo."
+        ]
+    },   
+    {
+        "title":"Place Vendôme",
+        "title_long":"Place Vendôme",
+        "image": "treasure_hunt/img/paris/landmarks//landmarks_08.jpg",
+        "lat_long": "48.867882, 2.329783",
+        "paragraphs":[
+            "La place Vendôme est un square du 1er arrondissement de Paris, situé au nord du jardin des Tuileries et à l'est de l'église de la Madeleine. C'est le point de départ de la rue de la Paix. Son architecture régulière donne à la place Vendôme, de forme rectangulaire, l'aspect d'un octogone. ",
+            "La place Vendôme a été aménagée en 1702 comme un monument à la gloire des armées de <strong>Louis XIV</strong>, et appelée <strong>place des Conquêtes </strong>(Place des Conquêtes), pour être rebaptisée place <strong>Louis le Grand</strong>, lorsque les conquêtes s'avèrent temporaires ; une statue équestre du roi, plus grande que nature, a été érigée en son centre, et est censée être la première grande statue équestre moderne à être coulée d'un seul tenant. Elle a été <strong>détruite à la Révolution française</strong> ; cependant, il en existe une petite version au Louvre.",
+            "L'originale <strong>colonne Vendôme</strong> au centre de la place <strong> a été érigée par Napoléon I</strong> pour commémorer la <strong>bataille d'Austerlitz</strong>. Elle a été démolie le 16 mai 1871, par décret de la <strong>Commune de Paris</strong>. Cette destruction avait été prédite par Karl Marx, qui avait écrit dans un pamphlet de 1852, très critique à l'égard de la figure politique de Napoléon III : 'Mais si le manteau impérial tombe enfin sur les épaules de Louis Bonaparte, la statue de bronze de Napoléon tombera de la hauteur de la colonne de Vendôme'.",
+            "La colonne a ensuite été ré érigée et reste aujourd'hui un élément important de la place."
+        ]
+    }],
+    "question_title": "Question",
+    "question_subtitle": "Pouvez-vous mettre la liste ci-dessous dans le bon ordre ?",
+    "question_text": "",
+    "question_image": "treasure_hunt/img/landmarks_frame_model.jpg",
+    "hints":[
+        "Il doit y avoir quelque chose dans l'appartement avec le même design que le modèle.", 
+        "Laissez votre doigt sur les noms pour les déplacer.",
+        "Peut-être que ce puzzle n'est pas pour vous. Essayez alors cet ordre, de haut en bas : Tour Eiffel, Versailles, Arc de Triomphe, Louvres, Montmartre, Grand Palais, Notre-Dame, Place Vendôme ."
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "page_title": "A bit of History",
+    "intro_title":"A bit of History",
+    "intro_subtitle":"Click on the pictures below to learn more about the city history (optional), or try to answer the question !",
+    "intro_sections" : [{
+        "title":"Foundation",
+        "title_long":"Foundation",
+        "image": "treasure_hunt/img/paris/old_map/history_01.jpg",
+        "paragraphs":[
+            "The history of <strong>Paris</strong> dates back to around the middle of the <strong>3rd century BC</strong>, when the Parisii, a sub-tribe of the<strong> Celtic</strong> Senones, inhabited the Paris area. One of the area's major trade routes crossed the Seine on the île de la Cité; this meeting place of land and water trade routes gradually became an important trading centre. The <strong>Parisii </strong>traded with many river towns (some as far away as the Iberian Peninsula) and minted their own coins for that purpose.",
+            "The <strong>Romans conquered the Paris Basin in 52 BC</strong> and began their settlement on Paris' Left Bank they called <strong>Lutetia</strong>. It became a prosperous city with a forum, baths, temples, theatres, and an amphitheatre.",
+            "By the end of the Western Roman Empire, the town was known as Parisius, a Latin name that would later become Paris. Christianity was introduced in the middle of the 3rd century AD by Saint Denis, the first Bishop of Paris: according to legend, when he refused to renounce his faith before the Roman occupiers, he was beheaded on the hill which became known as Mons Martyrum ('Hill of Martyrs'), later <strong>Montmartre</strong>.",
+            "Clovis the Frank, the first king of the Merovingian dynasty, made the city his <strong>capital from 508</strong>. As the Frankish domination of Gaul began, there was a gradual immigration by the Franks to Paris and the Parisian Francien dialects were born. From the Capetian dynasty that began with the 987 election of <strong>Hugh Capet</strong>, Count of Paris and Duke of the Franks, as king of a unified Francia, Paris gradually became the <strong>largest and most prosperous city in France</strong>."
+        ]
+    },{
+        "title":"Middle Ages & Renaissance",
+        "title_long":"Middle Ages & Renaissance",
+        "image": "treasure_hunt/img/paris/old_map/history_02.jpg",
+        "paragraphs":[
+            "By the end of the <strong>12th century</strong>, Paris had become the political, economic, religious, and cultural <strong>capital of France</strong>. The Palais de la Cité, the royal residence, was located at the western end of the Île de la Cité. In 1163, during the reign of Louis VII, Maurice de Sully, bishop of Paris, undertook the construction of the Notre Dame Cathedral at its eastern extremity.",
+            "In the late 12th century, Philip Augustus extended the Louvre fortress to defend the city against river invasions from the west, gave the city its first walls between 1190 and 1215, rebuilt its bridges to either side of its central island, and paved its main thoroughfares. In 1190, he transformed Paris' former cathedral school into a student-teacher corporation that would become the University of Paris and would draw students from all of Europe.",
+            "With <strong>200,000 inhabitants in 1328</strong>, Paris, then already the capital of France, was the most populous city of Europe. By comparison, London in 1300 had 80,000 inhabitants.",
+            "During the Hundred Years' War, Paris was occupied by England-friendly Burgundian forces from 1418, before being occupied outright by the English when Henry V of England entered the French capital in 1420;in spite of a 1429 effort by Joan of Arc to liberate the city, it would remain under <strong>English occupation until 1436</strong>.",
+            "In the late 16th-century French Wars of Religion, Paris was a stronghold of the Catholic League, the organisers of 24 August 1572 St. Bartholomew's Day massacre in which thousands of French Protestants were killed. The conflicts ended when pretender to the throne Henry IV, after converting to Catholicism to gain entry to the capital, entered the city in 1594 to claim the crown of France. ",
+            "During the 17th century, <strong>Cardinal Richelieu</strong>, chief minister of Louis XIII, was determined to make Paris the most beautiful city in Europe. He built five new bridges, a new chapel for the College of Sorbonne, and a palace for himself, the Palais-Cardinal, which he bequeathed to Louis XIII. After Richelieu's death in 1642, it was renamed the Palais-Royal.",
+            "Due to the Parisian uprisings during the Fronde civil war,<strong> Louis XIV</strong> moved his court to a new palace, <strong>Versailles</strong>, in <strong>1682</strong>. Although no longer the capital of France, arts and sciences in the city flourished with the Comédie-Française, the Academy of Painting, and the French Academy of Sciences. To demonstrate that the city was safe from attack, the king had the city walls demolished and replaced with tree-lined boulevards that would become the Grands Boulevards of today. Other marks of his reign were the Collège des Quatre-Nations, the Place Vendôme, the Place des Victoires, and Les Invalides."
+        ]
+    },
+    {
+        "title":"Revolutions & Empires ",
+        "title_long":"Revolutions & Empires <br> (1789 – 1860)",
+        "image": "treasure_hunt/img/paris/old_map/history_03.jpg",
+        "paragraphs":[
+            "Paris grew in population from about <strong>400,000 in 1640 </strong>to <strong>650,000 in 1780</strong>. A new boulevard, the Champs-Élysées, extended the city west to Étoile, while the working-class neighbourhood of the Faubourg Saint-Antoine on the eastern site of the city grew more and more crowded with poor migrant workers from other regions of France.",
+            "Paris was the centre of an explosion of philosophic and scientific activity known as the <strong>Age of Enlightenment</strong>. Diderot and d'Alembert published their Encyclopédie in 1751, and the Montgolfier Brothers launched the first manned flight in a hot-air balloon on 21 November 1783, from the gardens of the Château de la Muette. Paris was the financial capital of continental Europe, the primary European centre of book publishing and fashion and the manufacture of fine furniture and luxury goods.",
+            "In the summer of <strong>1789</strong>, Paris became the centre stage of the French Revolution. On <strong>14 July</strong>, a mob seized the arsenal at the Invalides, acquiring thousands of guns, and <strong>stormed the Bastille</strong>, a symbol of royal authority.",
+            "Louis XVI and the royal family were brought to Paris and made prisoners within the Tuileries Palace. <strong>In 1793</strong>, as the revolution turned more and more radical, <strong>the king, queen, and the mayor were guillotined</strong> in the Reign of Terror, along with more than 16,000 others throughout France. The property of the aristocracy and the church was nationalised, and the city's churches were closed, sold or demolished. A succession of revolutionary factions ruled Paris until 9 November 1799 (coup d'état du 18 brumaire), when <strong>Napoléon Bonaparte</strong> seized power as First Consul.",
+            "The population of Paris had dropped by 100,000 during the Revolution, but between <strong>1799</strong> and 1815, it surged with 160,000 new residents, reaching <strong>660,000</strong>. Napoleon Bonaparte replaced the elected government of Paris with a prefect reporting only to him. He began erecting monuments to military glory, including the <strong>Arc de Triomphe</strong>, <strong>Père Lachaise Cemetery</strong> and the city's first metal bridge, the <strong>Pont des Arts</strong>.",
+            "During the Restoration, the bridges and squares of Paris were returned to their pre-Revolution names, but the July <strong>Revolution of 1830</strong> in Paris, brought a constitutional monarch, Louis Philippe I, to power.",
+            "The first railway line to Paris opened in 1837, beginning a new period of massive migration from the provinces to the city.Louis-Philippe was overthrown by a popular uprising in the streets of Paris in 1848. His successor, <strong>Napoleon III</strong>, and the newly appointed prefect of the Seine, Georges-Eugène Haussmann, launched a gigantic public works project to build wide new boulevards, a new opera house, a central market, new aqueducts, sewers, and parks. In <strong>1860</strong>, Napoleon III also annexed the surrounding towns and created eight new arrondissements, expanding Paris to its current limits.",
+            "During the <strong>Franco-Prussian War (1870–1871)</strong>, Paris was besieged by the Prussian army. After months of blockade, hunger, and then bombardment by the Prussians, the city was forced to surrender on 28 January 1871. On 28 March, a revolutionary government called the <strong>Paris Commune</strong> seized power in Paris. The Commune held power for two months, until it was harshly suppressed by the French army during the <strong>Bloody Week</strong> at the end of May 1871.",
+            "Late in the <strong>19th century</strong>, Paris hosted two major international expositions: the 1889 Universal Exposition, was held to mark the centennial of the French Revolution and featured the new <strong>Eiffel Tower</strong>; and the 1900 Universal Exposition, which gave Paris the Pont Alexandre III, the <strong>Grand Palais</strong>, the Petit Palais and the <strong>first Paris Métro line</strong>. Paris became the laboratory of Naturalism (Émile Zola) and Symbolism (Charles Baudelaire and Paul Verlaine), and of Impressionism in art (Courbet, Manet, Monet, Renoir)."
+        ]
+    },
+    {
+        "title":"Modern Era",
+        "title_long":"Modern Era <br> (1860 – Now)",
+        "image": "treasure_hunt/img/paris/old_map/history_04.jpg",
+        "paragraphs":[
+            "By 1901, the population of Paris had grown to<strong> 2,715,000</strong>. At the beginning of the century, artists from around the world including: <strong>Pablo Picasso</strong>, <strong>Modigliani</strong>, and Henri <strong>Matisse</strong> made Paris their home. It was the birthplace of Fauvism, Cubism and abstract art, and authors such as Marcel Proust were exploring new approaches to literature.",
+            "During the First World War, Paris sometimes found itself on the front line; 600 to 1,000 Paris taxis played a small but highly important symbolic role in transporting 6,000 soldiers to the front line at the First Battle of the Marne. The city was also bombed by Zeppelins and shelled by German long-range guns. ",
+            "In the years after the war, known as Les Années Folles, Paris continued to be a <strong>mecca for writers, musicians and artists</strong> from around the world, including <strong>Ernest Hemingway</strong>, <strong>Igor Stravinsky</strong>, James <strong>Joyce</strong>, <strong>Josephine Baker</strong>, <strong>Sidney Bechet</strong>, <strong>Allen Ginsberg</strong> and the surrealist <strong>Salvador Dalí</strong>.",
+            "In the years after the peace conference, the city was also home to growing numbers of students and activists from French colonies and other Asian and African countries, who later became leaders of their countries, such as Ho Chi Minh, Zhou Enlai and Léopold Sédar Senghor.",
+            "On <strong>14 June 1940</strong>, the <strong>German army marched into Paris</strong>, which had been declared an <strong>open city</strong>. On 16–17 July 1942, following German orders, the French police and gendarmes arrested 12,884 Jews, including 4,115 children, and confined them during five days at the Vélodrome d'Hiver, from which they were transported by train to the extermination camp at Auschwitz. ",
+            "On <strong>25 August 1944, the city was liberated</strong> by the French 2nd Armoured Division and the 4th Infantry Division of the United States Army. General<strong> Charles de Gaulle</strong> led a huge and emotional crowd down the Champs Élysées towards Notre Dame de Paris, and made a rousing speech from the Hôtel de Ville.",
+            "In the 1950s and the 1960s, Paris became one front of the <strong>Algerian War for independence</strong>; in August 1961, the pro-independence FLN targeted and killed 11 Paris policemen. On 17 October 1961, an unauthorised but peaceful protest demonstration of Algerians against the curfew led to violent confrontations between the police and demonstrators, in which at least 40 people were killed, including some thrown into the Seine. The anti-independence Organisation armée secrète (OAS), for their part, carried out a series of bombings in Paris throughout 1961 and 1962.",
+            "In <strong>May 1968</strong>, protesting students occupied the Sorbonne and put up barricades in the Latin Quarter. Thousands of Parisian blue-collar workers joined the students, and the movement grew into a two-week general strike. Supporters of the government won the June elections by a large majority. ",
+            "The <strong>Tour Maine-Montparnasse</strong>, the tallest building in the city at 57 storeys and 210 metres (689 feet) high, was built in 1973. It was highly controversial, and it remains the only building in the centre of the city over 32 storeys high.The population of Paris dropped from 2,850,000 in 1954 to 2,152,000 in 1990, as middle-class families moved to the suburbs. In the early 21st century, the population of Paris began to increase slowly again, as more young people moved into the city. It reached <strong>2.25 million in 2011</strong>."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Can you find these Old Paris landmarks ?",
+    "question_text":"Here's three major Paris buildings from the middle ages. Can you find, in this apartment, the letter associated to them ?",
+    "old_monuments" : [{
+        "name":"The Bastille",
+        "icon":"fa-chess-rook",
+        "image_new": "treasure_hunt/img/paris/old_map/building_01_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_01_old.jpg",
+        "paragraphs":[
+            "The Bastille was a fortress in Paris. It played an important role in the internal conflicts of France and for most of its history was used as a <strong>state prison</strong> by the kings of France. The Bastille was built in 1357 to defend the eastern approach to the city of Paris from the English threat in the Hundred Years' War. The fortress was declared a state prison in 1417.",
+            "It was stormed by a crowd on<strong> </strong>14 <strong>July 1789</strong>, in the <strong>French Revolution</strong>, becoming an important symbol for the French Republican movement. It was later demolished and replaced by the <strong>Place de la Bastille</strong>. Almost nothing is left of the Bastille except some remains of its stone foundation."
+        ]
+    },{
+        "name":"Hôtel de Ville",
+        "icon":"fa-building",
+        "image_new": "treasure_hunt/img/paris/old_map/building_02_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_02_old.jpg",
+        "paragraphs":[
+            "The Hôtel de Ville (<strong>City Hall</strong>) is the building housing the city's local administration, standing on the place de l'Hôtel-de-Ville in the 4th arrondissement. The south wing was originally constructed in <strong>1535 until 1551</strong> and the north wing between 1605 and 1628. It was burned by the Paris Commune, during the Commune's final days in May 1871.",
+            "The outside was rebuilt following the original design, but larger, between 1874 and 1882, while the inside was considerably modified. It has been the <strong>headquarters of the municipality of Paris </strong>since 1357. It serves multiple functions, housing the local administration, the Mayor of Paris (since 1977), and also serves as a venue for large receptions."
+        ]
+    },{
+        "name":"Notre-Dame de Paris",
+        "icon":"fa-church",
+        "image_new": "treasure_hunt/img/paris/old_map/building_03_new.jpg",
+        "image_old": "treasure_hunt/img/paris/old_map/building_03_old.jpg",
+        "paragraphs":[
+            "Notre-Dame de Paris ('Our Lady of Paris'), referred to simply as <strong>Notre-Dame</strong>, is a medieval Catholic cathedral on the Île de la Cité. The cathedral's construction began in <strong>1160</strong> and was largely complete by 1260. In the 19th century, the cathedral was the site of <strong>the coronation of Napoleon I</strong> and the funerals of many Presidents of the French Republic.",
+            "Approximately 12 million people visit Notre-Dame annually, making it the <strong>most visited monument</strong> in Paris. While undergoing renovation and restoration, the roof of Notre-Dame caught fire on the evening of <strong>15 April 2019</strong>. Burning for around 15 hours, the cathedral sustained serious damage. The French Parliament has ruled that it will be <strong>rebuilt exactly as it appeared before the fire</strong>."
+
+        ]
+    }],
+    "hints":[
+        "If you look, you should find an old map of Paris in the apartment. When you find the landmark, try to read the letter next to it.",
+        "Ok, the letters might be hard to read. They form the middle word of the Paris Coat of Arms 'Fluctuat XXX Mergitur'. Which means 'Rocked but doesn't sink'",
+        "Ok, I guess you tried your best, here's the answer : N E C "
+    ]
+}

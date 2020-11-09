@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<!--
+	Escape Velocity by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Unlock Brussels</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36944042-3"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-36944042-3');
+		</script>
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header" class="wrapper">
+
+					<!-- Logo -->
+					<div id="logo">
+						<i class="fas fa-4x fa-lock white" style="color:#e97770"></i>
+						<br><br>
+						<h1><a href="index.html">Unlock Brussels</a></h1>
+						<p>A Treasure Hunt inside your Airbnb</p>
+					</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li ><a href="index.html">Home</a></li>
+								<li><a href="brussels-oldmap.html">First Puzzle</a></li>
+								<li><a href="brussels-landmarks.html">Second Puzzle</a></li>
+								<li><a href="brussels-comics.html">Third Puzzle</a></li>	
+								<li class="current"><a href="brussels-beers.html">Fourth Puzzle</a></li>									
+							</ul>
+						</nav>
+					
+				</section>
+
+			<!-- Intro -->
+				<section id="intro" class="wrapper style1">
+					<div class="title">Beers in Belgium</div>
+					<a href="#main" class="button style3 large">Skip to Question</a>				
+						<p></p>
+						<img src="images/beers-02.jpg" alt="beer" />
+						<p></p><p class="style3">Belgian beer is known throughout the world for its wide array of tastes, from extremely sour to bitter, and is brewed in numerous cities, towns and villages across the west European nation of 11 million people.</p>
+						<p></p><p class="style3">The beer’s history stretches back centuries to medieval monks and has been celebrated in paintings by Pieter Brueghel the Elder and in countless songs.</p>
+						<p></p><p class="style3">Making and appreciating beer is part of the living heritage of a range of communities throughout Belgium. It plays a role in daily life, as well as festive occasions. Almost 1,500 types of beer are produced in the country using different fermentation methods. </p>
+				</section>
+
+			<!-- Main -->
+				<section id="main" class="wrapper style2">
+					<div class="title">The Question</div>
+					<div class="container">
+
+						<!-- Image 
+							<a href="#" class="image featured">
+								<img src="images/pic01.jpg" alt="" />
+							</a>
+-->
+						<!-- Features -->
+							<section id="features">
+								<header class="style1">
+									<h2>Can you pair the bottle with the right glass ?</h2>
+									<p>In Belgium, it's important to serve the right beer in the right glass. In the apartment, find the beer that has a bottle and the matching glass.</p>
+									</p>
+
+								</header>			
+								<ul class="actions special" style="margin-top: 0em;">
+									<li><a onclick="answerQuestion()" class="button style1 large">Answer</a></li>
+									<li><a onclick="hint()" class="button style2 large">Hint</a></li>
+								</ul>
+								<ul class="actions special">
+									<div id="success" hidden>
+										<h2>Congratulations !</br> The combination of the lock is <i>1830</i>, the year of the Belgian revolution !</h2>
+										<img src="images/beers-01.jpg" alt="independence" />
+										<p>! After entering the combination, you must pull on the side of the lock to open it, not pull up !</p>
+									</div>
+								</ul>
+							</section>
+
+					</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+			<script>
+			function hint() {
+			  //alert("Don't be afraid to check on the back of the frames !");
+			  alert("Don't look for a real beer, check the pictures in the hall !");
+			}
+			
+			function answerQuestion() {
+			  // answer = prompt("Write down the two numbers you found, separated by a space ( bottle then beer )", "");
+			  //if (answer != null && ( answer.trim() == "54 27")) {
+			  answer = prompt("Write down the name of this famous Belgian Beer", "");
+			  if (answer != null && ( answer.replace("é", "e").toUpperCase().includes("ROCHEFORT"))) {
+				//Make the link to the next page appear
+				alert("Congratulations ! You found the answer !");
+				$( "#success" ).show();
+				gtag('event', 'finalanswer');
+			  } else {
+				alert("Sorry, that's incorrect !");
+			  }
+			}
+			</script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

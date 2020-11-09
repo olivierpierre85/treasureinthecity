@@ -1,0 +1,51 @@
+{
+    "page_title": "Belgian Specialties",
+    "intro_title":"Belgian Specialties",
+    "intro_subtitle":"For the last question, here's a few things Brussels and Belgium is famous for !",
+    "intro_sections" : [{
+        "title":"Comic Strip",
+        "title_long":"Comic Strip",
+        "image": "treasure_hunt/img/brussels/things/simple_01.jpg",
+        "paragraphs":[
+            "Belgian comics are a distinct subgroup in the comics history, and played a major role in the development of European comics, alongside France with whom they share a long common history.",
+            "While the comics in the two major language groups and regions of Belgium (Flanders with the Dutch language and Wallonia with French) each have clearly distinct characteristics, they are constantly influencing one another, and meeting each other in Brussels and in the bilingual publication tradition of the major editors.",  
+            "As one of the few arts where Belgium has had an international and enduring impact in the 20th century, comics are known to be 'an integral part of Belgian culture'."
+        ]
+    },{
+        "title":"Belgian Beers",
+        "title_long":"Belgian Beers",
+        "image": "treasure_hunt/img/brussels/things/simple_02.jpg",
+        "paragraphs":[
+            "Belgian beer is known throughout the world for its wide array of tastes, from extremely sour to bitter, and is brewed in numerous cities, towns and villages across the west European nation of 11 million people.",
+            "The beer’s history stretches back centuries to medieval monks and has been celebrated in paintings by Pieter Brueghel the Elder and in countless songs.",
+            "Making and appreciating beer is part of the living heritage of a range of communities throughout Belgium. It plays a role in daily life, as well as festive occasions. Almost 1,500 types of beer are produced in the country using different fermentation methods."
+        ]
+    },
+    {
+        "title":"Chocolate",
+        "title_long":"Chocolate",
+        "image": "treasure_hunt/img/brussels/things/simple_03.jpg",
+        "paragraphs":[
+            "Belgian chocolate has been a major industry since the 19th century, today it forms an important part of the nation's economy and culture",
+            "The raw materials used in chocolate production do not originate in Belgium; most cocoa is produced in Africa, Central America, and South America. Nonetheless, the country has an association with the product that dates to the early 17th century.",
+            "The industry expanded massively in the 19th century, gaining an international reputation and, together with the Swiss, became one of the commodity's most important producers in Europe."
+        ]
+    },
+    {
+        "title":"Belgian cuisine",
+        "title_long":"Belgian cuisine",
+        "image": "treasure_hunt/img/brussels/things/simple_04.jpg",
+        "paragraphs":[
+            "Belgian cuisine is widely varied with significant regional variations while also reflecting the cuisines of neighbouring France, Germany and the Netherlands. It is sometimes said that Belgian food is served in the quantity of German cuisine but with the quality of French food",
+            "Belgium has a plethora of local dishes and products. Examples include Moules-frites (mussels and fries), the waterzooi, the couque biscuit from Dinant, the Boulet 'à la liégeoise' (from Liège), and tarte au riz from Verviers."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Can You Spot the odd one out ?",
+    "question_text":"The most famous Belgian, Tintin, has lived many adventures. But somewhere in this apartment, there is one that isn't real (at least not written by Hergé, his original author). Can you find it?",
+    "hints":[
+        "There must be frames with Tintin Cover somewhere in the apartment.", 
+        "You can find the list of all Tintin comics on the back of one.",
+        "Hum, maybe the frame is missing. Try entering 'Tintin au Quebec' then !"
+    ]
+}

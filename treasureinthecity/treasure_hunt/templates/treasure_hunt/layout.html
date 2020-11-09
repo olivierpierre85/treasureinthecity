@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% load static %}
+  {% load i18n %}
+  <meta name="robots" content="noindex" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+
+  <title> Treasure in the City - {{ page_title }}</title>
+
+  <link rel="shortcut icon" href="{% static 'showcase/img/favicon.ico' %}" />
+
+  <!-- Custom fonts for this theme -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Theme CSS -->
+  <link href="{% static 'treasure_hunt/css/treasure_hunt.css' %}" rel="stylesheet">
+
+</head>
+<body>
+<!-- Navigation -->
+  <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="{% url 'home' place_id %}">
+        <img class="img-fluid" style="max-width: 75px;" src="{% static 'showcase/img/logo_small.png' %}" alt="">
+      </a>
+      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'home' place_id %}">Home</a>
+          </li>
+          {% for puzzle in visible_puzzles %}
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'puzzle' puzzle.id %}">{% trans "Puzzle " %}{{ forloop.counter }}</a>
+            </li>
+          {% endfor %}
+          <li class="nav-item mx-0 mx-lg-1">
+            <input id="current-page" type="hidden" value="{{ request.path }}">
+            <a class="dropdown-toggle nav-link py-3 px-0 px-lg-3 rounded" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {% trans "Language" %}
+            </a>
+            <div class="dropdown-menu bg-secondary border-0 position-static" aria-labelledby="dropdownMenuLink">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-link" href="#">EN</a>
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-link" href="#">FR</a>
+            </div>  
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</form>
+  <!-- Masthead -->
+  <header class="masthead bg-primary text-white text-center">
+      <div class="container d-flex align-items-center flex-column">
+
+        <img class="img-fluid mb-3" src="{% static 'showcase/img/logo.png' %}" alt="">
+
+        <!-- Masthead Subheading -->
+        <p class="masthead-subheading font-weight-light mb-0">{{ main_subtitle }}</p>
+        <hr>
+      </div>
+  </header>
+  <div class="body-content">
+
+    <section class="wrapper style1">
+      <div class="title">{{ intro_title  }}</div>
+      {% if intro_subtitle  %}
+      <div class="subtitle">{{ intro_subtitle  }}</div>
+      {% endif %}
+        {% block intro %}
+        {% endblock %}
+    </section>
+    
+    <section class="wrapper style2">
+      <div class="title">{{ question_title }}</div>
+      <div class="container text-center">
+        {% block question %}
+        {% endblock %}
+        {% block button %}
+        {% endblock %}
+      </div>	
+    </section>
+
+      <footer>
+        <!-- Copyright Section -->
+        <section class="copyright py-4 text-center text-white">
+          <div class="container">
+            <small>Copyright &copy; Treasure in the City 2020</small>
+          </div>
+        </section>
+
+      </footer>
+  </div>
+  {% block modal %}
+  {% endblock %}
+  <!-- SCRIPTS -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static 'treasure_hunt/vendor/jquery/jquery.min.js' %}"></script>
+  <script src="{% static 'treasure_hunt/vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+  <script src="{% static 'treasure_hunt/vendor/jquery/jquery.sortable.js' %}"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="{% static 'treasure_hunt/vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+  <!-- For old iphones -->
+  <script src="https://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="{% static 'treasure_hunt/js/treasure_hunt.js' %}"></script>
+</body>
+</html>

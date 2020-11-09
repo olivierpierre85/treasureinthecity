@@ -1,0 +1,13 @@
+{
+    "page_title": "Solution",
+    "intro_title":"Congratulations",
+    "intro_subtitle":"Here's your final riddle. Find 4 numbers associated to this image, they are the combination to open the lock on the chest ! (No need to search the apartment anymore) ",
+    "intro_image": "treasure_hunt/img/brussels/solution/brussels.jpg",
+    "question_title":"You are almost there",
+    "question_text":"A few more hints, just in case.",
+    "hints":[
+        "Well, you need four numbers, so maybe it's the date associated with the picture.", 
+        "Well, it looks like a revolution to me.",
+        "The combination of the lock is <strong>1830</strong>, the year of the Belgian revolution !"
+    ]
+}

@@ -1,0 +1,10 @@
+{% load static %}
+{% load i18n %}
+<div class="col-sm-12 col-md-6 col-lg-4">
+  <div class="text-center mt-4" data-toggle="modal" data-target="#modal_hint_{{ forloop.counter }}" >
+      <div type="button" class="btn btn-lg btn-outline-dark btn-block btn-hint" data-url="{% url 'log_event' %}" data-place="{{ place_id }}" data-puzzle="{{ puzzle_city.puzzle.id }}" data-hint-number="{{ forloop.counter }}">
+          <i class="fas fa-lightbulb mr-2"></i>
+          {% trans "Hint " %}{{ forloop.counter }}
+      </div>
+  </div>
+</div>

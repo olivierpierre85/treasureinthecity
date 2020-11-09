@@ -1,0 +1,51 @@
+{
+    "page_title": "Spécialités Belges",
+    "intro_title":"Spécialités Belges",
+    "intro_subtitle":"Pour la dernière question, voici quelques éléments qui font la réputation de Bruxelles et de la Belgique !",
+    "intro_sections" : [{
+        "title":"Bande dessinée",
+        "title_long":"Bande dessinée",
+        "image": "treasure_hunt/img/brussels/things/simple_01.jpg",
+        "paragraphs":[
+            "Les bandes dessinées belges constituent un sous-groupe distinct dans l'histoire de la bande dessinée, et ont joué un rôle majeur dans le développement de la bande dessinée européenne, aux côtés de la France avec laquelle elles partagent une longue histoire commune.",
+            "Si les BD des deux grands groupes linguistiques et régions de Belgique (la Flandre avec le néerlandais et la Wallonie avec le français) présentent chacune des caractéristiques clairement distinctes, elles s'influencent constamment les unes les autres, et se rencontrent à Bruxelles et dans la tradition de publication bilingue des grands éditeurs.",  
+            "La bande dessinée est l'un des rares arts où la Belgique a eu un impact international et durable au XXe siècle et elle est connue pour être une partie intégrante de la culture belge."
+        ]
+    },{
+        "title":"Bières Belges",
+        "title_long":"Bières Belges",
+        "image": "treasure_hunt/img/brussels/things/simple_02.jpg",
+        "paragraphs":[
+            "La bière belge est connue dans le monde entier pour sa grande variété de goûts, de l'aigre à l'amer, et elle est brassée dans de nombreuses villes et villages de ce pays d'Europe occidentale de 11 millions d'habitants.",
+            "L'histoire de la bière remonte à plusieurs siècles, jusqu'aux moines médiévaux, et a été célébrée dans des peintures de Pieter Brueghel l'Ancien et dans d'innombrables chansons.",
+            "La fabrication et l'appréciation de la bière font partie du patrimoine vivant de diverses communautés dans toute la Belgique. Elle joue un rôle dans la vie quotidienne, ainsi que dans les occasions festives. Près de 1 500 types de bières sont produits dans le pays selon différentes méthodes de fermentation."
+        ]
+    },
+    {
+        "title":"Chocolate",
+        "title_long":"Chocolate",
+        "image": "treasure_hunt/img/brussels/things/simple_03.jpg",
+        "paragraphs":[
+            "Le chocolat belge a été une industrie majeure depuis le 19e siècle, aujourd'hui il constitue une part importante de l'économie et de la culture de la nation.",
+            "Les matières premières utilisées dans la production de chocolat ne sont pas originaires de Belgique ; la majeure partie du cacao est produite en Afrique, en Amérique centrale et en Amérique du Sud. Néanmoins, le pays a une association avec le produit qui date du début du 17ème siècle.",
+            "L'industrie s'est développée massivement au XIXe siècle, a acquis une réputation internationale et est devenue, avec les Suisses, l'un des plus importants producteurs de cette matière première en Europe."
+        ]
+    },
+    {
+        "title":"La cuisine belge",
+        "title_long":"La cuisine belge",
+        "image": "treasure_hunt/img/brussels/things/simple_04.jpg",
+        "paragraphs":[
+            "La cuisine belge est très variée, avec d'importantes variations régionales, tout en reflétant les cuisines de la France, de l'Allemagne et des Pays-Bas voisins. On dit parfois que la nourriture belge est servie dans la même quantité que la cuisine allemande mais avec la qualité de la nourriture française.",
+            "La Belgique dispose d'une pléthore de plats et de produits locaux. Citons par exemple les Moules-frites, le waterzooi, la couque de Dinant, les Boulets à la liégeoise et la tarte au riz de Verviers."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Pouvez-vous repérer l'intrus ?",
+    "question_text":"Le plus célèbre des Belges, Tintin, a vécu de nombreuses aventures. Mais quelque part dans cet appartement, il y en a une qui n'est pas réelle (du moins pas écrite par Hergé, son auteur original). Pouvez-vous la retrouver ?",
+    "hints":[
+        "Il doit y avoir quelque part dans l'appartement, des cadres avec la couverture de Tintin.", 
+        "Vous pouvez trouver la liste de toutes les BD de Tintin au dos d'une.",
+        "Hum, il manque peut-être le cadre. Essayez d'entrer 'Tintin au Québec' alors !"
+    ]
+}

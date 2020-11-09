@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+  {% load static %}
+  <meta name="google-site-verification" content="n6lfhrNxD4e2o6XVhX2Gvv-mPWHoDSVg0oweRbpyF6s" />
+  <meta name="robots" content="index">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="{% trans 'Treasure in the city provides a fun game to add to your Bnb (Airbnb). A treasure hunt based on your city, currently available for Paris and Brussels.' %}">
+  <meta name="author" content="Treasure in the City">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36944042-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-36944042-5');
+  </script>
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NLWZ2HL');</script>
+  <!-- End Google Tag Manager -->
+
+
+  <title>{% trans 'Treasure in the city - A Treasure Hunt inside your B&B' %}</title>
+
+  <link rel="shortcut icon" href="{% static 'showcase/img/favicon.ico' %}" />
+
+  <link rel="shortcut icon" href="" />
+  <!-- Bootstrap core CSS -->
+  <link href="{% static 'showcase/vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  
+  <!-- Custom styles for this template -->
+  <link href="{% static 'showcase/css/agency.css' %}" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLWZ2HL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-shrink" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="{% url 'index' %}">
+        <img class="img-fluid" style="max-width: 75px;" src="{% static 'showcase/img/logo_small.png' %}" alt="logo">
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger active" href="#concept" data-tag="concept">{{ content.concept }}</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#portfolio" data-tag="package">{{ content.package }}</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#app" data-tag="app">{{ content.app }}</a>
+          </li>
+		  <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#testimonial" data-tag="testimonial">{{ content.testimonial }}</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact" data-tag="order">{{ content.order }}</a>
+          </li>
+		  <li class="nav-item">
+            <input id="current-page" type="hidden" value="{{ city }}">
+            <a class="nav-link js-scroll-trigger lang-link" id="button-lang" data-tag="button-lang" href="#">{{ content.button_lang }}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container">
+      <div class="h1 intro-text">
+        <img class="img-fluid mb-4" src="{% static 'showcase/img/logo.png' %}" alt="logo">
+        <div class="intro-lead-in" data-tag="subtitle">{{ content.subtitle }}</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Concept -->
+  <section class="page-section" id="concept">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" data-tag="theconcept">{{ content.theconcept }}</h2>
+          <h3 class="section-subheading text-muted" data-tag="theconcept-subtitle">{{ content.theconcept_subtitle }}</h3>
+        </div>
+      </div>
+      <div class="row text-center">
+	      <div class="col-lg-3 col-md-6">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-search fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading" data-tag="theconcept-puzzle">{{ content.theconcept_puzzle }}</h4>
+          <p class="text-muted" data-tag="theconcept-puzzle-sub">{{ content.theconcept_puzzle_sub }}</p>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-mobile-alt fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading" data-tag="theconcept-app">{{ content.theconcept_app }}</h4>
+          <p class="text-muted" data-tag="theconcept-app-sub">{{ content.theconcept_app_sub }}</p>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-images fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading" data-tag="theconcept-bxl">{{ content.theconcept_bxl }}</h4>
+          <p class="text-muted" data-tag="theconcept-bxl-sub">{{ content.theconcept_bxl_sub }}</p>
+        </div>
+		    <div class="col-lg-3 col-md-6">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-star fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading" data-tag="theconcept-review">{{ content.theconcept_review }}</h4>
+          <p class="text-muted" data-tag="theconcept-review-sub">{{ content.theconcept_review_sub }}</p>
+        </div>
+	  </div>
+  </div></section>
+ <!-- Package Section -->
+  <section class="bg-light page-section" id="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" data-tag="thepackage-title">{{ content.thepackage_title }}</h2>
+          <h3 class="section-subheading text-muted" data-tag="thepackage-subtitle">{{ content.thepackage_subtitle }}</h3>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_01_img %}" alt="{{ content.thepackage_01_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-01-title">{{ content.thepackage_01_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-01-text">{{ content.thepackage_01_text | safe }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_02_img %}" alt="{{ content.thepackage_02_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-02-title">{{ content.thepackage_02_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-02-text">{{ content.thepackage_02_text | safe }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_03_img %}" alt="{{ content.thepackage_03_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-03-title">{{ content.thepackage_03_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-03-text">{{ content.thepackage_03_text | safe }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_04_img %}" alt="{{ content.thepackage_04_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-04-title">{{ content.thepackage_04_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-04-text">{{ content.thepackage_04_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_05_img %}" alt="{{ content.thepackage_05_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-05-title">{{ content.thepackage_05_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-05-text">{{ content.thepackage_05_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_06_img %}" alt="{{ content.thepackage_06_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-06-title">{{ content.thepackage_06_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-06-text">{{ content.thepackage_06_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_07_img %}" alt="{{ content.thepackage_07_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-05-title">{{ content.thepackage_07_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-05-text">{{ content.thepackage_07_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_08_img %}" alt="{{ content.thepackage_08_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-06-title">{{ content.thepackage_08_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-06-text">{{ content.thepackage_08_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box">
+            <img class="img-fluid" src="{% static content.thepackage_09_img %}" alt="{{ content.thepackage_09_title | safe }}">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50" data-tag="thepackage-06-title">{{ content.thepackage_09_title | safe }}</div>
+              <div class="project-name" data-tag="thepackage-06-text">{{ content.thepackage_09_text | safe  }}</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- App -->
+  <section class="page-section" id="app">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" data-tag="theapp">{{ content.theapp }}</h2>
+          <h3 class="section-subheading text-muted" data-tag="theapp-subtitle">{{ content.theapp_subtitle }}</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="team-member">
+            <h4 data-tag="theapp-01-title">{{ content.theapp_01_title }}</h4>
+            <img src="{% static 'showcase/img/app/app_01.png' %}" alt="app screenshot 1">            
+            <p class="text-muted" data-tag="theapp-01-text">{{ content.theapp_01_text }}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <h4 data-tag="theapp-02-title">{{ content.theapp_02_title }}</h4>
+            <img src="{% static 'showcase/img/app/app_02.png' %}" alt="app screenshot 2">
+            <p class="text-muted" data-tag="theapp-02-text">{{ content.theapp_02_text }}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <h4 data-tag="theapp-03-title">{{ content.theapp_03_title }}</h4>
+            <img src="{% static 'showcase/img/app/app_03.png' %}" alt="app screenshot 3">            
+            <p class="text-muted" data-tag="theapp-03-text">{{ content.theapp_03_text }}</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+    <a type="button" target="_blank" href="{{ content.theapp_try_link }}" class="btn btn-primary btn-lg btn-block" data-tag="theapp-try">{{ content.theapp_try }}</a>
+    <br>
+          <p class="large text-muted" data-tag="theapp-try-sub">{{ content.theapp_try_sub }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Clients -->
+  <section class="bg-light page-section" id="testimonial">
+    <div class="container">
+	  <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" data-tag="thetestimonial">{{ content.thetestimonial }}</h2>
+
+        </div>
+      </div>
+      <div class="row">
+			<div class="col-lg-12 text-center mb-5 mt-5">
+				 <a href="https://www.airbnb.com/rooms/40626112">
+					<span class="fa-stack fa-3x">
+						<i class="fas fa-circle fa-stack-2x text-primary"></i>
+						<i class="fab fa-airbnb fa-stack-1x fa-inverse"></i>
+					  </span>
+				  
+				  <p class="text-muted" data-tag="thetestimonial-subtitle">{{ content.thetestimonial_subtitle }}</p>
+				  </a>
+			</div>
+            <blockquote class="quote-card">
+              <p data-tag="thetestimonial-01">{{ content.thetestimonial_01 }}</p>
+        
+              <cite>
+                <a href="https://www.airbnb.com/rooms/40626112">
+                  Émilie
+				</a>
+              </cite>
+            </blockquote>
+        
+            <blockquote class="quote-card color-card">
+              <p data-tag="thetestimonial-02">{{ content.thetestimonial_02 }}</p>
+        
+             <cite>
+                <a href="https://www.airbnb.com/rooms/40626112">
+					Hannah
+				</a>
+            </cite>
+			</blockquote>
+			
+			<blockquote class="quote-card">
+              <p data-tag="thetestimonial-03">{{ content.thetestimonial_03 }}</p>
+        
+              <cite>
+                <a href="https://www.airbnb.com/rooms/40626112">
+					Qiuyan
+				</a>
+              </cite>
+            </blockquote>
+      </div>
+    </div>
+	</section>
+<!-- Contact -->
+  <section class="page-section" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase" data-tag="theorder">{{ content.theorder }}</h2>
+		  <h3 class="section-subheading text-muted" data-tag="theorder-subtitle">{{ content.theorder_subtitle }}</h3>
+        </div>
+      </div>
+      <div class="row">
+		<div class="col-lg-4">
+			<div class="card mb-5 mb-lg-0">
+			  <div class="card-body">
+				<h3 class="card-title text-uppercase text-center" data-tag="theorder-desc-title">{{ content.theorder_desc_title }}</h3>
+        <h4 class="card-price text-center"><s class="text-muted">150 €</s> 99 €</h4>
+				<hr>
+				<ul class="fa-ul">
+				  <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-01">{{ content.theorder_desc_01 }}</span></li>
+				  <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-02">{{ content.theorder_desc_02 }}</span></li>
+          <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-03">{{ content.theorder_desc_03 }}</span></li>
+          <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-04">{{ content.theorder_desc_04 }}</span></li>
+				  <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-05">{{ content.theorder_desc_05 }}</span></li>
+				  <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-06">{{ content.theorder_desc_06 }}</span></li>
+          <li><span class="fa-li"><i class="fas fa-check"></i></span><span data-tag="theorder-desc-07">{{ content.theorder_desc_07 }}</span></li>
+				</ul>
+				<hr>
+				<p class="text-muted">
+          <span data-tag="theorder-desc-08">{{ content.theorder_desc_08 }}</span>
+        </p>
+			  </div>
+			</div>
+		</div>
+        <div class="col-lg-8">
+          <form id="contactForm" name="sentMessage" novalidate="novalidate">
+            {% csrf_token %}
+            <div class="row">
+              <div class="col-md-12">
+                <div class="form-group">
+                  <input class="form-control" id="name" type="text" placeholder="{{ content.theorder_contact_name }}" required="required" data-validation-required-message="{{ content.theorder_contact_name_error }}" data-tag="theorder-contact-name">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input class="form-control" id="email" type="email" placeholder="{{ content.theorder_contact_email }}" required="required" data-validation-required-message="{{ content.theorder_contact_email_error }}" data-tag="theorder-contact-email">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input class="form-control" id="phone" type="tel" placeholder="{{ content.theorder_contact_phone }}" data-tag="theorder-contact-phone">
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+			  
+              <div class="col-md-12">
+                <div class="form-group">
+                  <textarea class="form-control" id="message" placeholder="{{ content.theorder_contact_message }}" data-tag="theorder-contact-message"></textarea>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div class="col-lg-12 text-center">
+                <div id="success"></div>
+                <button id="sendMessageButton" class="btn btn-primary btn-xl btn-block text-uppercase" type="submit" data-url="{% url 'email' %}" data-tag="theorder-contact-submit">{{ content.theorder_contact_submit }}</button>
+              </div>
+              <div class="order-sales-conditions">
+                <p>{{ content.theorder_satisfy }}</p>
+                <p>{{ content.theorder_payment }}</p>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4">
+
+        </div>
+        <div class="col-md-4">
+          <span class="copyright">Copyright © Treasure in the City 2020</span>
+        </div>
+
+        <div class="col-md-4">
+          <!--
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+          </ul>-->
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static 'showcase/vendor/jquery/jquery.min.js' %}"></script>
+  <script src="{% static 'showcase/vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="{% static 'showcase/vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+  
+  <!-- Contact form JavaScript -->
+  <script src="{% static 'showcase/js/jqBootstrapValidation.js' %}"></script>
+  <script src="{% static 'showcase/js/contact_me.js' %}"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="{% static 'showcase/js/agency.js' %}"></script>
+
+</body>
+
+</html>

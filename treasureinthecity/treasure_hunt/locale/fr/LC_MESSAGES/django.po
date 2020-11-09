@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-01 15:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: templates/treasure_hunt/button_hint.html:7
+#: templates/treasure_hunt/modal_hint.html:17
+msgid "Hint "
+msgstr "Indice "
+
+#: templates/treasure_hunt/error.html:53 views.py:37 views.py:116
+msgid "A Treasure Hunt Inside your Airbnb"
+msgstr "Une chasse au trésor dans votre Airbnb"
+
+#: templates/treasure_hunt/error.html:61
+msgid "Error"
+msgstr "Erreur"
+
+#: templates/treasure_hunt/error.html:62
+msgid "Page not found"
+msgstr "Page inconnue"
+
+#: templates/treasure_hunt/home.html:19
+msgid "Start the Hunt !"
+msgstr "Commencez la Chasse !"
+
+#: templates/treasure_hunt/landmarks.html:43
+#: templates/treasure_hunt/old_map.html:65
+#: templates/treasure_hunt/simple_question.html:35
+msgid "Congratulations !"
+msgstr "Félicitations !"
+
+#: templates/treasure_hunt/landmarks.html:47
+#: templates/treasure_hunt/old_map.html:69
+#: templates/treasure_hunt/simple_question.html:39
+msgid "Sorry, wrong answer ..."
+msgstr "Désolé, c'est une mauvaise réponse ..."
+
+#: templates/treasure_hunt/landmarks.html:56
+#: templates/treasure_hunt/old_map.html:77
+#: templates/treasure_hunt/simple_question.html:48
+msgid "Next Puzzle"
+msgstr "Puzzle Suivant"
+
+#: templates/treasure_hunt/landmarks.html:64
+#: templates/treasure_hunt/old_map.html:85
+#: templates/treasure_hunt/simple_question.html:28
+#: templates/treasure_hunt/simple_question.html:56
+msgid "Answer"
+msgstr "Réponse"
+
+#: templates/treasure_hunt/layout.html:44
+msgid "Puzzle "
+msgstr "Puzzle "
+
+#: templates/treasure_hunt/layout.html:50
+msgid "Language"
+msgstr "Langue"
+
+#: templates/treasure_hunt/modal_hint.html:32
+#: templates/treasure_hunt/modal_info.html:39
+msgid "Close Window"
+msgstr "Fermer"
+
+#: templates/treasure_hunt/old_map.html:52
+msgid "Your Answer"
+msgstr "Votre Réponse"
+
+#: views.py:38
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: views.py:39
+msgid "So, I guess you're wondering what's all this about ?"
+msgstr "Alors, je suppose que vous vous demandez de quoi il s'agit ?"
+
+#: views.py:40
+msgid "Well,"
+msgstr "Et bien,"
+
+#: views.py:40
+msgid " is an experience that will teach you a little about "
+msgstr " est une expérience qui vous apprendra un peu sur "
+
+#: views.py:40
+msgid " and "
+msgstr " et la "
+
+#: views.py:40
+msgid " through "
+msgstr " au travers de "
+
+#: views.py:40
+msgid ""
+" different puzzles</strong>. Solve them with clues hidden in this apartment !"
+msgstr ""
+" différents puzzles</strong>. Résolvez-les avec les indices cachés dans cet "
+"appartement !"
+
+#: views.py:41
+msgid ""
+"Once you reach the last puzzle, you'll be able to guess the code of the "
+"treasure chest."
+msgstr ""
+"Une fois que vous aurez atteint le dernier puzzle, vous pourrez deviner le "
+"code du coffre au trésor."
+
+#: views.py:42
+msgid ""
+"Each Puzzle has <strong>hints</strong> to help you, but it's more fun if you "
+"don't use them !"
+msgstr ""
+"Chaque puzzle a des <strong>indices</strong> pour vous aider, mais c'est "
+"plus amusant si vous ne les utilisez pas !"
+
+#: views.py:44
+msgid "Enjoy!"
+msgstr "Bonne chance !"
+
+#~ msgid "Someone Found Your Treasure !"
+#~ msgstr "Quelque'un a trouvé votre trésor !"
+
+#~ msgid "Your current guest just opened the solution page of the puzzle."
+#~ msgstr "Un de vos visiteurs vient d'ouvrir la page de solution du puzzle."
+
+#~ msgid "Well, <strong>Unlock "
+#~ msgstr "Et bien, <strong>Unlock "

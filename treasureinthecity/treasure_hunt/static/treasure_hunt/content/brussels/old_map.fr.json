@@ -1,0 +1,78 @@
+{
+    "page_title": "Un peu d'histoire",
+    "intro_title":"Un peu d'histoire",
+    "intro_subtitle":"Cliquez sur les images ci-dessous pour en savoir plus sur l'histoire de la ville (facultatif), ou allez directement à la question !",
+    "intro_sections" : [{
+        "title":"Fondation",
+        "title_long":"Fondation",
+        "image": "treasure_hunt/img/brussels/old_map/history_01.jpg",
+        "paragraphs":[
+            "<strong>Bruxelles</strong> était un lieu de peuplement depuis la préhistoire mais elle est devenue une grande agglomération après que Saint Gery ait construit une chapelle sur les rives de la Senne en 695, aujourd'hui appelée Place Saint Gery.",
+            "La ville de Bruxelles a été officiellement fondée en <strong>979</strong> par <strong>Charles, Duc de Basse Lotharingie</strong>, qui a établi la première charte de la ville de Bruxelles. Depuis lors, Bruxelles a connu de nombreux souverains, renaissances et révolutions.",
+            "Après le début de sa charte, Bruxelles s'est rapidement développée d'une ville à une autre. Elle était le centre du commerce entre les villes de Bruges, Gand et Cologne, où la Senne rencontrait la route économique qui s'étendait de l'est à l'ouest du pays. <strong>Le premier ensemble de murs de la ville</strong> (sur la photo) a été achevé au 11ème siècle et, avec une protection accrue, il a précipité la croissance de sa population."
+        ]
+    },{
+        "title":"Moyen-Âge",
+        "title_long":"Moyen-Âge",
+        "image": "treasure_hunt/img/brussels/old_map/history_02.jpg",
+        "paragraphs":[
+            "Un deuxième mur de la ville a été construit peu après pour protéger les citoyens et les industries qui se développaient à l'extérieur des murs. À partir du XIIe siècle, Bruxelles devient une ville importante sous l'administration du duc de Brabant. Le Duc fit de Bruxelles la capitale du Duché de Brabant pendant plusieurs siècles, 12ème, 13ème et 14ème.",
+            "Au plus fort du développement économique, Bruxelles exportait des articles de luxe tels que des tissus et des tapisseries vers Paris et Venise. Elle a été la base d'artistes tels que Rogier van der Weyden, dont les peintures ont fleuri et sont devenues le fond de nombreuses tapisseries tissées à partir de la soie la plus fine et exportées dans toute l'Europe pour décorer les maisons des rois et des aristocrates.",
+            "On peut encore voir des tapisseries exposées dans des musées européens tels que le Louvre (comme celui ci-dessus). L'hôtel de ville et la maison du roi se sont élevés au-dessus de la vieille ville sur la Grand Place dans les années 1400 ; ces deux bâtiments opposés se font toujours face sur l'actuelle Grand Place."
+        ]
+    },
+    {
+        "title":"Renaissance et Révolution",
+        "title_long":"Renaissance et Révolution",
+        "image": "treasure_hunt/img/brussels/old_map/history_03.jpg",
+        "paragraphs":[
+            "La période qui a suivi le XVe siècle a été marquée par des rébellions et des soulèvements. À la fin du XVe siècle, Bruxelles perd temporairement la faveur et son titre de capitale après un soulèvement contre le Saint Empereur romain Maximilien Ier. Elle retrouve son statut après la prise de pouvoir de Charles Quint entre 1519 et 1559. Dirigée par les calvinistes au milieu des années 1500, puis par l'archiduc Albert Ier (1598-1633), la ville avait atteint une population de 50 000 habitants au milieu du XVIe siècle.",
+            "En 1695, le bombardement de Bruxelles, par le roi Louis XIV de France, a laissé la Grand Place en ruines et des milliers de bâtiments dans toute la ville ont été réduits en miettes. La reconstruction de Bruxelles a été entreprise par un certain nombre de corporations d'artisans ; elles ont laissé leur empreinte historique avec la construction des maisons des corporations qui ont donné à la Grand Place une forme rectangulaire fermée. Pendant le reste du XVIIIe siècle, Bruxelles est également le centre du développement économique, des occupations et des révoltes. Les troupes françaises s'y installent à nouveau de 1746 à 1748, la révolte brabançonne a lieu de 1788 à 1790 et Bruxelles est à nouveau conquise à l'époque napoléonienne. La capitale actuelle de Bruxelles a été créée après la fin du Royaume-Uni des Pays-Bas (1815-1830) en 1830 avec l'indépendance de la Belgique."
+        ]
+    },
+    {
+        "title":"Époque contemporaine",
+        "title_long":"Époque contemporaine",
+        "image": "treasure_hunt/img/brussels/old_map/history_04.jpg",
+        "paragraphs":[
+            "La dernière grande révolte de la Belgique a eu lieu en 1830, lorsqu'elle a protesté contre le roi Guillaume des Pays-Bas pour obtenir son indépendance. Le roi Léopold Ier, qui était l'oncle de la reine Victoria, est devenu le premier roi du royaume de Belgique le 21 juillet 1831. Les murs de la ville ont été démolis pendant cette période (1810-1840) et remplacés par un ensemble de boulevards en forme de pentagone suivant le tracé original de la vieille ville de Bruxelles, appelé le périphérique intérieur. L'actuelle ligne de métro circulaire s'articule autour de ce même périphérique. Une croissance rapide de la population s'ensuit et en 1846, Bruxelles compte 123 000 habitants.",
+            "Le 20e siècle a été une période de guerre et de développement. Après les deux guerres mondiales, l'Allemagne occupant Bruxelles à ces deux occasions, Bruxelles a fait partie du Pacte de Bruxelles (ou Traité de Bruxelles) en 1948 qui a conduit au lancement de la coopération de défense de l'Europe occidentale. Actuellement, Bruxelles est considérée comme la capitale de l'Union européenne, avec la Commission (sur la photo) et d'autres grandes institutions européennes présentes dans la ville. Dans les années 1960, les premières lignes de métro ont été construites pour réduire la congestion urbaine ; dans les années 1970 et 1980, une nouvelle réforme politique a créé la Région de Bruxelles-Capitale, étendant la ville de Bruxelles à une agglomération urbaine d'un peu plus d'un million d'habitants."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Pouvez-vous trouver ces monuments du Vieux Bruxelles ?",
+    "question_text":"Voici trois monuments bruxellois du Moyen-Âge. Pouvez-vous trouver, dans cet appartement, le chiffre qui leur est associée ?",
+    "old_monuments" : [{
+        "name":"Cathédrale Saints-Michel-et-Gudule",
+        "icon":"",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_01_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_01_old.jpg",
+        "paragraphs":[
+            "Une église catholique romaine qui a reçu le statut de cathédrale en 1962. Sa forme actuelle a été complétée juste avant le début du règne de l'empereur Charles Quint, en <fort>1519</strong>",
+            "En raison de son importance et de son emplacement dans la capitale nationale, elle est souvent utilisée pour des cérémonies catholiques d'intérêt national, telles que les mariages royaux et les funérailles d'État. En 1999, elle a été le cadre du mariage de <strong>King Philippe</strong> et Mathilde d'Udekem d'Acoz."
+        ]
+    },{
+        "name":"Porte de Halle",
+        "icon":"fa-building",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_02_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_02_old.jpg",
+        "paragraphs":[
+            "Construite en <strong>1381</strong>, la Porte de Halle est une porte médiévale de la ville fortifiée et le dernier vestige de la deuxième enceinte de Bruxelles.",
+            "C'est aujourd'hui un musée, qui fait partie des Musées royaux d'art et d'histoire. Il est situé sur le Boulevard du Midi entre la Ville de Bruxelles et Saint-Gilles."
+        ]
+    },{
+        "name":"Hôtel de Ville",
+        "icon":"",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_03_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_03_old.jpg",
+        "paragraphs":[
+            "Réalisé en <strong>1454</strong>, l'Hôtel de Ville de la Ville de Bruxelles est un bâtiment gothique du Moyen-Âge. Il est situé sur la célèbre Grand Place de Bruxelles, en Belgique, en face du Musée de la Ville de Bruxelles.",
+            "C'est le seul bâtiment médiéval restant de la Grand Place et il est considéré comme un chef d'œuvre de l'architecture gothique civile et plus particulièrement du gothique brabançon."
+        ]
+    }],
+    "hints":[
+        "Si vous cherchez bien, vous devriez trouver un vieux plan de Bruxelles dans l'appartement. Lorsque vous le trouverez, essayez de lire la lettre qui se trouve à côté.",
+        "Ok, les chiffres peuvent être difficiles à lire. Ce sont 51, 10, 3, mais dans quel ordre ? ",
+        "Ok, je suppose que vous avez fait de votre mieux, voici la réponse : 3, 10, 51 "
+    ]
+}

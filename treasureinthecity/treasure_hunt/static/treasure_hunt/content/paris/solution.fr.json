@@ -1,0 +1,13 @@
+{
+    "page_title": "Solution",
+    "intro_title":"Félicitations",
+    "intro_subtitle":"Voici votre dernière énigme. Trouvez les 3 chiffres manquants dans cette image pour ouvrir la serrure du coffre ! (Plus besoin de fouiller l'appartement)",
+    "intro_image": "treasure_hunt/img/paris/solution/paris.jpg",
+    "question_title":"Vous y êtes presque",
+    "question_text":"Quelques indices supplémentaires, au cas où.",
+    "hints":[
+        "Il y a quatre chiffres, alors c'est peut-être la date associée à la photo.", 
+        "On dirait que le monument ici pourrait être la 'Bastille'.",
+        "OK, c'est 1(<strong>789</strong>). L'année de la Révolution française, qui a commencé avec la prise de la Bastille !"
+    ]
+}

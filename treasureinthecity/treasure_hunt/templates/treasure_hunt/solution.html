@@ -1,0 +1,29 @@
+{% extends "treasure_hunt/layout.html" %}
+{% load static %}
+{% load i18n %}
+
+{% block intro %}
+
+<img class="img-fluid img-thumbnail m-2  mx-auto d-block" src="{% static content.intro_image %}" />
+
+{% endblock %}
+
+{% block question %}
+
+<div class="subtitle">{{ content.question_text }}</div>
+
+{% endblock %}
+
+{% block button %}
+<div class="row m-3">
+    {% for hint in content.hints %}
+        {% include 'treasure_hunt/button_hint.html' %}
+    {% endfor %}
+</div>
+{% endblock %}
+
+{% block modal %}
+    {% for hint in content.hints %}
+        {% include 'treasure_hunt/modal_hint.html' %}
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,51 @@
+{
+    "page_title": "La Vie à Paris",
+    "intro_title":"La Vie à Paris",
+    "intro_subtitle":"Paris n'est pas seulement une ville d'histoire, mais une métropole culturelle, politique et économique dynamique. Cliquez sur les images ci-dessous pour en savoir plus sur un aspect de la ville (facultatif), ou allez directement à la question !",
+    "intro_sections" : [{
+        "title":"Culture",
+        "title_long":"Culture",
+        "image": "treasure_hunt/img/paris/old_ads/simple_01.jpg",
+        "paragraphs":[
+            "La culture de Paris concerne les arts, la musique, les musées, les festivals et autres divertissements à Paris, la capitale de la France. La ville est aujourd'hui l'un des principaux centres d'affaires et culturels du monde ; les divertissements, la musique, les médias, la mode et les arts contribuent tous à son statut de ville la plus culturelle d'Europe.",
+            "Paris abrite des attractions culturelles remarquables telles que le <strong>Louvre</strong>, <strong>Musée Picasso</strong>, <strong>Musée Rodin</strong>, le Musée du Montparnasse, et le Musée National d'Art Moderne. Le <strong>Musée d'Orsay</strong> et le Musée de l'Orangerie sont réputés pour abriter des chefs-d'œuvre de l'époque impressionniste, tandis que les œuvres d'art et les objets du Moyen-Âge sont visibles au Musée Cluny.",
+            "Une variété de points de repère et d'objets sont des icônes culturelles associées à Paris, comme la Tour Eiffel, Notre Dame de Paris et l'Opéra Garnier. De nombreux établissements locaux de Paris, autrefois très appréciés, sont venus répondre aux goûts et aux attentes des touristes, plutôt qu'à ceux des mécènes locaux. Le Lido, la salle de danse-cabaret, par exemple, est un dîner-théâtre, un spectacle de danse qui n'était autrefois qu'un aspect de l'ancienne atmosphère du cabaret. Tous les anciens éléments sociaux ou culturels de l'établissement, tels que les salles de bal et les jardins, ont aujourd'hui disparu. Une grande partie de l'hôtellerie, de la restauration et des divertissements nocturnes de Paris est devenue fortement dépendante du tourisme."
+        ]
+    },{
+        "title":"Économie",
+        "title_long":"Économie",
+        "image": "treasure_hunt/img/paris/old_ads/simple_02.jpg",
+        "paragraphs":[
+            "L'économie de Paris repose largement sur les services et le commerce : sur les 390 480 entreprises, 80,6 % sont engagées dans le commerce, les transports et les services divers, 6,5 % dans la construction et seulement 3,8 % dans l'industrie. Paris, y compris la ville de Paris et la région Île-de-France, est le plus important centre d'activité économique en France, représentant environ <strong>30 % du PIB français</strong>.",
+            "Les dix premières entreprises françaises classées dans le Fortune Global 500 pour 2015 ont toutes leur siège en Ile-de-France, neuf au sein de la Ville de Paris et une, Total S.A., dans le département des Hauts-de-Seine, dans le quartier d'affaires de La Défense. La quatrième entreprise, la Société Générale, a son siège social à Paris et ses bureaux opérationnels à <strong>La Défense</strong>. D'autres pôles d'entreprises importants sont situés à Issy-les-Moulineaux (entreprises de médias), Boulogne-Billancourt et Saint-Denis."
+        ]
+    },
+    {
+        "title":"Gastronomie",
+        "title_long":"Gastronomie",
+        "image": "treasure_hunt/img/paris/old_ads/simple_03.jpg",
+        "paragraphs":[
+            "La réputation culinaire de Paris repose sur les <strong> origines régionales diverses</strong> de ses habitants. Les régions de France ont produit des cuisines distinctives, tout comme les variétés régionales de vin. Celles-ci se sont mêlées aux traditions régionales de Paris. À ses débuts, le développement culinaire de Paris devait beaucoup à l'organisation au XIXe siècle d'un système ferroviaire qui avait Paris comme centre, faisant de la capitale un point de convergence des migrations des nombreuses régions et cultures gastronomiques de France.",
+            "Cette réputation se perpétue aujourd'hui dans une diversité culturelle qui s'est depuis étendue à l'échelle mondiale grâce à la réputation de finesse culinaire </strong> de Paris et à l'immigration de plus en plus importante en provenance de climats de plus en plus lointains. Les immigrés des anciennes colonies ont insufflé à la cuisine française leurs propres traditions, originaires d'Asie du Sud-Est, d'Afrique du Nord et de l'Ouest.",
+            "Les restaurants parisiens reflètent cette diversité, avec des menus portant sur la cuisine régionale traditionnelle, des fusions d'influences culinaires diverses, ou innovant à la pointe de nouvelles techniques, telles que la gastronomie moléculaire. Les magasins d'alimentation parisiens ont également une solide réputation de fournir des produits culinaires spécialisés <strong> de qualité</strong> et des fournitures, réputation qui se construit souvent au fil des générations."
+        ]
+    },
+    {
+        "title":"Politique",
+        "title_long":"Politique",
+        "image": "treasure_hunt/img/paris/old_ads/simple_04.jpg",
+        "paragraphs":[
+            "En tant que capitale de la France, Paris est le siège du <strong>gouvernement national de la France</strong>. Pour l'exécutif, les deux directeurs généraux ont chacun leur propre résidence officielle, qui leur sert également de bureau. Le Président de la République réside au <strong>Palais de l'Élysée</strong> dans le 8e arrondissement, tandis que le Premier ministre a son siège à l'<strong>Hôtel Matignon</strong> dans le 7e arrondissement. Les ministères du gouvernement sont situés dans différents quartiers de la ville ; beaucoup sont situés dans le 7e arrondissement, près du Matignon.",
+            "Les deux chambres du <strong>Parlement français</strong> sont situées sur la rive gauche. La chambre haute, le Sénat, se réunit dans le <strong>Palais du Luxembourg</strong>, tandis que la chambre basse, plus importante, l'Assemblée nationale, se réunit dans le <strong>Palais Bourbon</strong>. Le Président du Sénat, deuxième plus haut fonctionnaire de France après le Président de la République, réside au Petit Luxembourg, une petite annexe du Palais du Luxembourg.",
+            "Les plus hautes juridictions françaises sont situées à Paris. La Cour de cassation, la plus haute juridiction de l'ordre judiciaire, qui examine les affaires pénales et civiles, est située au Palais de justice de l'île de la Cité, tandis que le Conseil d'État, qui fournit des conseils juridiques à l'exécutif et agit comme la plus haute juridiction de l'ordre administratif, jugeant les litiges contre les organismes publics, est situé au Palais royal. Le Conseil constitutionnel, organe consultatif ayant le pouvoir suprême sur la constitutionnalité des lois et des décrets gouvernementaux, se réunit également dans l'aile Montpensier du Palais Royal."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Pouvez-vous repérer la société parisienne ?",
+    "question_text":"Vous pouvez trouver dans l'appartement plusieurs anciennes annonces de sociétés françaises célèbres. Pouvez-vous deviner celle qui provient de Paris ?",
+    "hints":[
+        "Les annonces sont dans de petits cadres.", 
+        "Je pense que Paris est célèbre pour son industrie de la mode.",
+        "Hum, il manque peut-être le cadre. Essayez 'Louis Vuitton' alors !"
+    ]
+}

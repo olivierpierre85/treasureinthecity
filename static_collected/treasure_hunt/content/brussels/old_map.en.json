@@ -1,0 +1,78 @@
+{
+    "page_title": "A bit of History",
+    "intro_title":"A bit of History",
+    "intro_subtitle":"Click on the pictures below to learn more about the city history (optional), or try to answer the question !",
+    "intro_sections" : [{
+        "title":"Foundation",
+        "title_long":"Foundation",
+        "image": "treasure_hunt/img/brussels/old_map/history_01.jpg",
+        "paragraphs":[
+            "<strong>Brussels</strong> was a location for settlement since prehistory but it became a noteworthy settlement after Saint Gery built a chapel on the banks of the Senne River in 695, now called Place Saint Gery.",
+            "The city of Brussels was officially founded in <strong>979</strong> by <strong>Charles, Duke of Low Lotharingia</strong>, who set down Brussels’ first city charter. Since then Brussels has seen many rulers, renaissances and revolutions.",
+            "After the beginning of its charter, Brussels developed quickly from a town into a city. It was the centre of trade between the cities of Bruges, Ghent and Cologne where the Senne River met the economic route that stretched from the east to the west of the country. <strong>The first set of city walls</strong> (in the picture) were completed in the 11th century and with increased protection, it precipitated growth of its population."
+        ]
+    },{
+        "title":"Middle Ages",
+        "title_long":"Middle Ages",
+        "image": "treasure_hunt/img/brussels/old_map/history_02.jpg",
+        "paragraphs":[
+            "A second city wall was built shortly after to protect citizens and industry spilling outside the walls. From the 12th century Brussels became an important city under the administration of the Duke of Brabant. The Duke made Brussels the capital city of the Duchy of Brabant for several centuries, 12th, 13th and 14th.",
+            "At the height of economic development, Brussels exported luxury items such as fabrics and tapestries to Paris and Venice. It was home base for artists such as Rogier van der Weyden, whose paintings flourished and became the cartoon background for many tapestries woven from the finest silk and exported all over Europe to decorate the homes of royals and aristocrats.",
+            "Tapestries can still be seen on display in European museums such as the Louvre (like the one above). The Town Hall and the King’s House rose up over the Old Town at the Grand Place in the 1400s; these two opposing buildings still face each other in the current Grand Place."
+        ]
+    },
+    {
+        "title":"Renaissance & Revolutions",
+        "title_long":"Renaissance and Revolution",
+        "image": "treasure_hunt/img/brussels/old_map/history_03.jpg",
+        "paragraphs":[
+            "The period succeeding the 15th century was marked by rebellions and uprisings. At the end of the 15th century, Brussels temporarily lost favour and its title of capital after an uprising against the Holy Roman Emperor Maximilian I. It regained its status after Charles V took reign between 1519 and 1559. Ruled by the Calvinists in the mid 1500s and then reigned over by Archduke Albert I (1598–1633) the city had grown to a population of 50,000 by mid 16th century.",
+            "In 1695, the Bombardment of Brussels, by King Louis XIV of France, left the Grand Place in ruins and thousands of buildings all over the city were torn to the ground. The rebuilding of Brussels was undertaken by a number of craftsmen guilds; they left their historic mark with the building of the guildhalls which gave the Grand Place an enclosed rectangular shape. For the rest of the 1700s Brussels was equally the centre of economic development, occupations and revolts. French troops took hold again from 1746-48, the Brabant Revolt took place from 1788-90 and Brussels was overtaken again during the Napoleonic era. The current Capital of Brussels was established after the United Kingdom of the Netherlands (1815-1830) ended in 1830 with Belgium’s independence."
+        ]
+    },
+    {
+        "title":"Modern Era",
+        "title_long":"Modern Era <br> (1860 – Now)",
+        "image": "treasure_hunt/img/brussels/old_map/history_04.jpg",
+        "paragraphs":[
+            "Belgium’s last great revolt was in 1830 when it protested against King William of the Netherlands to gain independence. King Leopold I, who was the uncle of Queen Victoria, became the first King of the Kingdom of Belgium on 21 July 1831. The walls of the city were taken down during this period (1810-1840) and replaced by a set of boulevards in the shape of a pentagon following the original outline of the Old Town Brussels, called the Inner Ring Road. The current circle metro line weaves around this same ring road. Rapid growth of the population followed and by 1846 Brussels had 123,000 inhabitants.",
+            "The 20th century was a period of war and development. After World War I and World War II, Germany occupying Brussels on both occasions, Brussels was a part of the Brussels Pact (or Brussels Treaty) in 1948 which led to the initiation of the Western European defence cooperation. At present Brussels is considered the capital of the European Union, with the commission (in the picture) and other major European instutitions present in the city. In the 1960s the first metro lines were built to ease urban congestion; in 1970s and 1980s further political reform created the Brussels Capital Region, expanding the City of Brussels to an urban agglomeration with a population of just over 1 million."
+        ]
+    }],
+    "question_title":"Question",
+    "question_subtitle":"Can you find these Old Brussels landmarks ?",
+    "question_text":"Here's three major Brussels buildings from the middle ages. Can you find, in this apartment, the number associated to them ?",
+    "old_monuments" : [{
+        "name":"Cathedral of St. Michael and St. Gudula",
+        "icon":"",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_01_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_01_old.jpg",
+        "paragraphs":[
+            "A roman catholic church given cathedral status in 1962. It's current form was completed just before the reign of the Emperor Charles V commenced, in <strong>1519</strong>.",
+            "Due to its importance and its location in the national capital, it is often used for Catholic ceremonies of national interest, such as royal marriages and state funerals. In 1999, it was the setting for the wedding of <strong>King Philippe</strong> and Mathilde d'Udekem d'Acoz"
+        ]
+    },{
+        "name":"The Halle Gate",
+        "icon":"",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_02_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_02_old.jpg",
+        "paragraphs":[
+            "Built in <strong>1381</strong>, the Halle Gate (French: Porte de Hal, Dutch: Hallepoort) is a medieval fortified city gate and the last vestige of the second walls of Brussels.",
+            "It is now a museum, part of the Royal Museums of Art and History. It is located on Boulevard du Midi/Zuidlaan between the City of Brussels and Saint-Gilles."
+        ]
+    },{
+        "name":"Brussels Town Hall",
+        "icon":"",
+        "image_new": "treasure_hunt/img/brussels/old_map/building_03_new.jpg",
+        "image_old": "treasure_hunt/img/brussels/old_map/building_03_old.jpg",
+        "paragraphs":[
+            "Completed in <strong>1454</strong>, the Town Hall of the City of Brussels is a Gothic building from the Middle Ages. It is located on the famous Grand Place in Brussels, Belgium, opposite the Brussels City Museum.",
+            "It is the only remaining medieval building of the Grand Place and is considered a masterpiece of civil Gothic architecture and more particularly of Brabantine Gothic."
+        ]
+    }],
+    "hints":[
+        "If you look, you should find an old map of Brussels in the apartment. When you find the landmark, try to read the number next to it.",
+        "Ok, the letters might be hard to read. They are 51, 10, 3, but in which order ?",
+        "Ok, I guess you tried your best, here's the answer : 3, 10, 51 "
+    ]
+}

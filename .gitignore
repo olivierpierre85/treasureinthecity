@@ -1,0 +1,19 @@
+treasureinthecity/treasure_hunt/__pycache__
+__pycache__
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+treasureinthecity/__pycache__/
+db.sqlite3
+treasureinthecity/treasure_hunt/migrations/
+db.json
+treasureinthecity/settings.prod.py
+treasureinthecity/settings.py
+sshplanethoster.doc
+usefulcommands.doc

@@ -1,0 +1,95 @@
+{
+    "page_title": "Sites célèbres",
+    "intro_title":"Sites célèbres",
+    "intro_subtitle":"Voici quelques uns des sites les plus célèbres de Bruxelles. Cliquez sur les photos ci-dessous pour en savoir plus (facultatif).",
+    "intro_sections" : [ 
+    {
+        "title":"Cinquantenaire",
+        "title_long":"Parc du Cinquantenaire",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_01.jpg",
+        "lat_long": "50.841434, 4.390515",
+        "paragraphs":[
+            "Le Parc du Cinquantenaire est un grand parc public urbain (30 hectares) situé dans la partie la plus orientale du quartier européen à Bruxelles, en Belgique",
+            "Il est connu pour l'arc de triomphe qui a été prévu pour l'exposition nationale de 1880 pour commémorer le 50ème anniversaire de l'état indépendant de la Belgique."
+        ]
+    },
+    {
+        "title":"Manneken Pis",
+        "title_long":"Manneken Pis",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_02.jpg",
+        "lat_long": "50.845189, 4.350322",
+        "paragraphs":[
+            "Manneken Pis (petit homme qui pisse) est un point de repère au centre de Bruxelles, représentant un petit garçon nu qui urine dans le bassin d'une fontaine.",
+            "Il a été conçu par Jérôme Duquesnoy l'Ancien et mis en place en 1618 et est la plus célèbre fontaine de Bruxelles."
+        ]
+    },
+    {
+        "title":"Palais de Justice",
+        "title_long":"Palais de Justice",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_03.jpg",
+        "lat_long": "50.836738, 4.351593",
+        "paragraphs":[
+            "Le Palais de Justice de Bruxelles est le plus important bâtiment judiciaire de Belgique. Il est situé sur la place Poelaert dans le quartier des Marolles",
+            "Construit entre 1866 et 1883 par le célèbre architecte Joseph Poelaert dans un style éclectique, le bâtiment est réputé être le plus grand construit au XIXe siècle et constitue un point de repère important de Bruxelles."
+        ]
+    },
+    {
+        "title":"Place de Brouckère",
+        "title_long":"Place De Brouckère",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_04.jpg",
+        "lat_long": "50.851347, 4.352661",
+        "paragraphs":[
+            "La place de Brouckère est une grande place située au centre de la ville. Elle est nommée en l'honneur de Charles de Brouckère, ancien bourgmestre de Bruxelles et professeur à l'Université libre de Bruxelles, qui a joué un grand rôle politique pendant la Révolution belge de 1830.",
+            "Le quartier autour de la place est caractérisé par la présence de théâtres, d'un grand cinéma, d'hôtels et de restaurants, ainsi que de certains des plus importants lieux de divertissement et des rues commerçantes de la ville."
+        ]
+    },
+    {
+        "title":"Le Canal de Bruxelles",
+        "title_long":"Le Canal de Bruxelles",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_05.jpg",
+        "lat_long": "50.854179, 4.342137",
+        "paragraphs":[
+            "Le canal maritime Bruxelles-Escaut, est un canal en Belgique qui relie Bruxelles au fleuve Escaut et finalement à la mer.",
+            "Construit en 1561, le canal est l'un des plus anciens canaux navigables de Belgique et même d'Europe."
+        ]
+    },
+    {
+        "title":"L'Atomium",
+        "title_long":"L'Atomium",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_06.jpg",
+        "lat_long": "50.895097, 4.341579",
+        "paragraphs":[
+            "L'Atomium est un bâtiment emblématique de Bruxelles, construit à l'origine pour l'Exposition universelle de Bruxelles de 1958.",
+            "Il représente une seule unité de cristal de fer agrandie 165 milliards de fois. Il y a 9 sphères représentant des atomes qui sont reliées par des tubes avec des escaliers roulants et des ascenseurs. Chaque sphère a à peu près la taille d'un grand appartement (18 m de diamètre)."
+        ]
+    },
+    {
+        "title":"Le Botanique",
+        "title_long":"Le Botanique",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_07.jpg",
+        "lat_long": "50.854692, 4.365104",
+        "paragraphs":[
+            "Le Jardin botanique de Bruxelles est un parc urbain pris en sandwich par les routes du quartier nord de Bruxelles. Grâce à sa vie antérieure de jardin botanique en activité, il a conservé un mélange de styles (français, italien et anglais) et une grande variété d'arbres et de plantes.",
+            "Le bâtiment principal est maintenant un complexe culturel et un lieu de musique connu sous le nom de 'Le Botanique'."
+        ]
+    },    
+    {
+        "title":"Grand-Place",
+        "title_long":"Grand-Place",
+        "image": "treasure_hunt/img/brussels/landmarks/landmarks_08.jpg",
+        "lat_long": "50.846867, 4.352414",
+        "paragraphs":[
+            "La Grand-Place est la place centrale de Bruxelles. Elle est entourée d'opulentes maisons de corporations et de deux grands édifices, l'Hôtel de Ville et la Maison du Roi ou bâtiment de la boulangerie contenant le Musée de la Ville de Bruxelles",
+            "La Grand Place est la destination touristique la plus importante et le point de repère le plus mémorable de Bruxelles. Elle est également considérée comme l'une des plus belles places d'Europe, et est inscrite au patrimoine mondial de l'UNESCO depuis 1998."
+        ]
+    }],
+    "question_title": "Question",
+    "question_subtitle": "Pouvez-vous mettre la liste ci-dessous dans le bon ordre ?",
+    "question_text": "",
+    "question_image": "treasure_hunt/img/landmarks_frame_model.jpg",
+    "hints":[
+        "Il doit y avoir quelque chose dans l'appartement avec le même design que le modèle.", 
+        "Laissez votre doigt sur les noms pour les déplacer.",
+        "Peut-être que ce puzzle n'est pas pour vous. Essayez alors cet ordre, de haut en bas : La Grand-Place, Place De Brouckère, Palais de Justice, Le Botanique, Cinquantenaire, Le Canal de Bruxelles, Manneken Pis, Atomium "
+    ]
+}
